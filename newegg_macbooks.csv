@@ -1,0 +1,566 @@
+name,price,brand,series,model,rating,os,cpu_type,cpu_speed,cores,storage,memory,gpu_type,gpu_memory,screen
+"Apple 13"" MacBook Air,Intel Core i7, 8GB RAM, 128GB SSD,Backlit Keyboard,Thunderbolt 2,SDXC card slot,Bluetooth,Webcam,Mac OS,Silver",899.99,Apple,MacBook Air,,5,Mac OS X v10.12 Sierra,Intel Core i7,2.20 GHz,,,8 GB,,,"13.0"""
+"Apple MacBook Pro MLUQ2LL/A Intel Core i5-6360U 6th Gen 2.00 GHz 8 GB Memory 256 GB SSD Intel Iris Graphics 540 13.3"" Mac OS X v10.12 Sierra  Laptop","1,199.00",Apple,MacBook Pro,MLUQ2LL/A,5,Mac OS X v10.12 Sierra,Intel Core i5 6th Gen,6360U (2.00 GHz),Dual-core Processor,256 GB SSD,8 GB,Intel Iris Graphics 540,Shared system memory,"13.3"""
+"Apple Laptop MacBook Pro With Touch Bar MPXV2LL/A Intel Core i5 7th Gen 7200U (2.50 GHz) 8 GB Memory 256 GB SSD Intel Iris Plus Graphics 650 13.3"" Mac OS X v10.12 Sierra","1,517.64",Apple,MacBook Pro With Touch Bar,MPXV2LL/A,4,Mac OS X v10.12 Sierra,Intel Core i5 7th Gen,7200U (2.50 GHz),Dual-core Processor,256 GB SSD,8 GB,Intel Iris Plus Graphics 650,Shared system memory,"13.3"""
+"Apple 16"" MacBook Pro (2.6 GHz Intel Core i7 6-Core | 512GB SSD) (Late 2019, Space Gray)","2,258.29",,MacBook Pro,,,,Intel Core i7,2.60 GHz,,,16 GB,,,"16.0"""
+"Refurbished: Apple 13"" MacBook Air Retina display, 1.6GHz dual-core Intel Core i5, 128GB - Space Gray",749.00,Apple,MacBook Air,MRE82LL/A,,,Intel Core i5 8th Gen,1.60 GHz,Dual-core Processor,,,,,"13.0"""
+"Apple Laptop MacBook Air (Mid 2017) MQD32LL/A Intel Core i5 5th Gen 5350U (1.80 GHz) 8 GB Memory 512 GB SSD Intel HD Graphics 6000 13.3"" Mac OS X v10.12 Sierra","1,199.95",Apple,MacBook Air (Mid 2017),MQD32LL/A,,Mac OS X v10.12 Sierra,Intel Core i5 5th Gen,5350U (1.80 GHz),Dual-core Processor,512 GB SSD,8 GB,Intel HD Graphics 6000,Shared system memory,"13.3"""
+"Refurbished: Apple MacBook Pro ME665LL/A Intel Core i7-3740QM X4 2.7GHz 16GB 512GB SSD 15.4""(Scratch & Dent)",774.97,Apple,MacBook Pro,ME665LL/A,,*Mac OS X 10.8 Mountain Lion,Intel Core i7,2.70 GHz,Quad-core Processor,512 GB,16 GB,*NVIDIA GeForce GT 650M,Dedicated 1 GB,"15.4"""
+"Apple Laptop MacBook Air MJVM2LL/A 5th Generation Intel Core i5 1.6 GHz 4 GB Memory 128 GB SSD Intel HD Graphics 6000 11.6"" Mac OS X v10.10 Yosemite",699.00,Apple,MacBook Air,MJVM2LL/A,5,Mac OS X v10.10 Yosemite,Intel Core i5,1.60 GHz,Dual-core Processor,128 GB SSD,4 GB,Intel HD Graphics 6000,Shared system memory,"11.6"""
+"Apple 16"" MacBook Pro (2.3 GHz Intel Core i9 8-Core | 1TB SSD) (Late 2019, Space Gray)","2,680.00",,MacBook Pro,Apple Macbook Pro 16 Inch,,,,2.3 GHz,8-core Processor,1 TB,16 GB,,4 GB,"16.0"""
+"New Apple Laptop MacBook Pro MJLQ2LL/A Intel Core i7 2.20 GHz 16 GB Memory 1TB SSD 15.4"" Mac OS X v10.13 High Sierra","2,399.95",Apple,MacBook Pro,MJLQ2LL/A,,Mac OS X v10.10 Yosemite,Intel Core i7,2.20 GHz,Quad-core Processor,256 GB Flash,16 GB,,Shared system memory,"15.4"""
+"Refurbished: Apple MacBook Pro 13.3"" Retina - Core i5 2.7GHz, 256GB SSD, 8GB RAM, Intel Iris Graphics 6100, MacOS Mojave v10.14 - A1502 MF839LL/A (2015)",579.00,Apple,MacBook Pro,A1502,4,Mac OS X v10.14 Mojave,Intel Core i5 5th Gen,5257U (2.70 GHz),Dual-core Processor,256 GB SSD,8 GB,Intel Iris Graphics 6100 graphics processor,Shared,"13.3"""
+"Refurbished: Apple Grade D Laptop MacBook Pro MC724LL/A Intel Core i7 2.70 GHz 4 GB Memory 500 GB HDD 13.3"" Mac OS X v10.7 Lion",250.47,Apple,MacBook Pro,MC724LL/A,,Mac OS X v10.7 Lion,Intel Core i7,2.70 GHz,Dual-core Processor,500 GB,4 GB,,,"13.3"""
+"Refurbished: Apple MacBook Air 13.3"" - 5th Generation Intel Core i5 1.60GHz (turbo up to 2.70ghz), 8 GB Mem, 256 GB SSD, Intel HD Graphics 6000, macOS 10.14 Mojave - A1466 MJVE2LL/A (Early 2015) - Grade B",674.00,Apple,MacBook Air,A1466,5,Mac OS X v10.14 Mojave,Intel Core i5 5th Gen,5250U (1.60 GHz),Dual-core Processor,256 GB,8 GB,Intel HD Graphics 6000,Shared system memory,"13.3"""
+"Apple NEW Apple Macbook Air 13.3"" i5 5th Gen 1.8GHz 128GB SSD 8GB RAM Mac OS X v10.12 Sierra MQD32LLA Silver",839.99,Apple,MacBook Air,MQD32LL/A,,Mac OS X v10.12 Sierra,Intel Core i5 5th Gen,5350U (1.80 GHz),Dual-core Processor,128 GB,8 GB,Intel HD Graphics 6000,Shared system memory,"13.3"""
+"Refurbished: Apple Grade D Laptop MacBook Air RRMJVR2LL/AU2-D Intel Core i7 2.20 GHz 8 GB Memory 512 GB SSD 11.6"" Mac OS X v10.10 Yosemite",441.97,Apple,MacBook Air,RRMJVR2LL/AU2-D,,Mac OS X v10.10 Yosemite,Intel Core i7,2.20 GHz,,512 GB SSD,8 GB,,,"11.6"""
+Apple MacBook Pro A1278 - i5-2415M - 8GB & 750GB HDD - High Sierra - Discounted!,309.99,,,,,Mac OS X v10.13 High Sierra,Intel Core i5 2nd Gen,2.3 GHz,,,8 GB,,,"13.3"""
+"Refurbished: Apple Grade A Laptop MacBook Pro (Late 2016) MLL42LL/A Intel Core i5 6th Gen 6360U (2.00 GHz) 8 GB Memory 256 GB SSD Intel Iris Graphics 540 13.3"" Mac OS X v10.12 Sierra","1,149.99",Apple,MacBook Pro (Late 2016),MLL42LL/A,,Mac OS X v10.12 Sierra,Intel Core i5 6th Gen,6360U (2.00 GHz),Dual-core Processor,256 GB SSD,8 GB,Intel Iris Graphics 540,Shared system memory,"13.3"""
+"Apple Laptop MacBook Air MMGF2LL/A Intel Core i5 5th Gen 1.60 GHz 8 GB LPDDR3 Memory 128 GB PCIe-Based Flash Storage Intel HD Graphics 6000 13.3"" Mac OS X v10.12 Sierra (Early 2015)",849.99,Apple,MacBook Air,MMGF2LL/A,5,Mac OS X v10.12 Sierra,Intel Core i5 5th Gen,5250U (1.60 GHz),Dual-core Processor,128 GB SSD,8 GB,Intel HD Graphics 6000,Shared system memory,"13.3"""
+"Apple 16"" MacBook Pro (Late 2019, Space Gray) with Airpods Pro Bundle","2,891.99",Apple,,,,,Intel Core i7,2.60 GHz,,,16 GB,,,"16.0"""
+"Refurbished: Apple Grade A Laptop MacBook Pro RRMJLT2LL/A-A Intel Core i7 2.5 GHz 16 GB Memory 512 GB SSD 15.4"" Mac OS X v10.10 Yosemite","1,275.00",Apple,MacBook Pro,RRMJLT2LL/A-A,,Mac OS X v10.10 Yosemite,Intel Core i7,2.5 GHz,,512 GB SSD,16 GB,,,"15.4"""
+"Apple MacBook Air 13.3"" 128GB SSD, 8GB RAM 2.2Ghz Dual-Core Intel Core i7 Silver Z0UU3LL/A",845.62,Apple,MacBook Air,Z0UU3LL/A,,macOS,Intel Core i7,2.20 GHz,Dual-core Processor,128GB SSD,8 GB,,,"13.3"""
+"Refurbished: Apple Grade A Laptop MacBook Pro MJLQ2LL/A Intel Core i7 2.20 GHz 16 GB Memory 512 GB SSD 15.4"" Mac OS X v10.14 Mojave","1,199.99",Apple,MacBook Pro,MJLQ2LL/A,,Mac OS X v10.14 Mojave,Intel Core i7,2.20 GHz,,512GB SSD,16 GB,,,"15.4"""
+"Apple Laptop MacBook MNYG2LL/A Intel Core i5 1.30 GHz 8 GB Memory 512 GB PCIe SSD Intel HD Graphics 615 12.0"" Mac OS X v10.12 Sierra","1,199.99",Apple,MacBook,MNYG2LL/A,,Mac OS X v10.12 Sierra,Intel Core i5,1.30 GHz,Dual-core Processor,512 GB PCIe SSD,8 GB,Intel HD Graphics 615,Shared system memory,"12.0"""
+"Refurbished: Apple Grade A Laptop MacBook Pro (Mid 2014) A1398 Intel Core i7 4th Gen 4770HQ (2.20 GHz) 16 GB Memory 256 GB SSD Intel Iris Pro Graphics 5200 15.4"" Mac OS X v10.12 Sierra",994.97,Apple,MacBook Pro (Mid 2014),A1398,5,Mac OS X v10.12 Sierra,Intel Core i7 4th Gen,4770HQ (2.20 GHz),Quad-core Processor,256 GB SSD,16 GB,Intel Iris Pro Graphics 5200,Shared system memory,"15.4"""
+"Refurbished: Apple Grade C Laptop MacBook Pro RRMF841LL/A-C1 Intel Core i5 5th Gen 5287U (2.90 GHz) 8 GB Memory 512 GB SSD Intel Iris Graphics 6100 13.3"" Mac OS X v10.10 Yosemite",609.99,Apple,MacBook Pro,RRMF841LL/A-C1,,Mac OS X v10.10 Yosemite,Intel Core i5 5th Gen,5287U (2.90 GHz),Dual-core Processor,512 GB SSD,8 GB,Intel Iris Graphics 6100,Shared system memory,"13.3"""
+"Refurbished: Apple Grade C Laptop MacBook Air RRMJVM2LL/AU1-C Intel Core i5 1.60 GHz 8 GB Memory 256 GB SSD 11.6"" Mac OS X v10.10 Yosemite",409.99,Apple,MacBook Air,RRMJVM2LL/AU1-C,,Mac OS X v10.10 Yosemite,Intel Core i5,1.60 GHz,,256 GB SSD,8 GB,,,"11.6"""
+"Apple Laptop MacBook Pro MR932LL/A Intel Core i7 8th Gen 8750H (2.20 GHz) 16 GB Memory 256 GB SSD AMD Radeon Pro 555X 15.4"" macOS High Sierra","2,099.00",Apple,MacBook Pro,MR932LL/A,,macOS High Sierra,Intel Core i7 8th Gen,8750H (2.20 GHz),6-core Processor,256 GB SSD,16 GB,AMD Radeon Pro 555X,4 GB,"15.4"""
+"Refurbished: Apple MacBook Pro ME865LL/A Intel Core i5-4258U X2 2.9GHz 8GB 256GB SSD 13.3"", Silver (Refurbished)",696.99,Apple,,MacBook Pro ME865LL/A,,Mac OS X v10.9 Mavericks,,,Dual-core Processor,,,Intel Iris Graphics 5100,,"13.3"""
+"Apple Laptop MacBook Pro MPXU2LL/A Intel Core i5 2.3 GHz 8 GB Memory 256 GB PCIe-based SSD Intel Iris Plus Graphics 640 13.3"" Mac OS X v10.12 Sierra","1,448.99",Apple,MacBook Pro,MPXU2LL/A,,Mac OS X v10.12 Sierra,Intel Core i5,2.3 GHz,Dual-core Processor,256 GB PCIe-based onboard SSD,8 GB,Intel Iris Plus Graphics 640,Shared system memory,"13.3"""
+"Refurbished: Apple Grade A Laptop MacBook Pro with Touch Bar (Late 2016) MNQF2LL/A Intel Core i5 2.9 GHz 8 GB Memory 512 GB SSD 13.3"" Mac OS X v10.12 Sierra","1,189.99",Apple,MacBook Pro with Touch Bar (Late 2016),MNQF2LL/A,,Mac OS X v10.12 Sierra,Intel Core i5,2.9 GHz,,512 GB SSD,8 GB,,,"13.3"""
+"Refurbished: Apple MacBook Pro MD101LL/A Intel Core i5-3210M X2 2.5GHz 4GB 500GB 13.3"", Silver (Scratch and Dent)",424.34,Apple,,,,Mac OS X v10.7 Lion,,,Dual-core Processor,,,Intel HD Graphics 4000,,"13.3"""
+"Apple MacBook Pro 13.3"" Laptop Retina Display 2.7GHz i5 8GB RAM 128GB SSD",799.99,Apple,MacBook Pro,MF839LL/A,,,Intel Core i5,2.70 GHz,,,8 GB,,,"13.3"""
+"Apple 16"" MacBook Pro (Late 2019, Space Gray) with Magic Mouse 2 Bundle","2,638.99",Apple,,,,,Intel Core i7,2.60 GHz,,,16 GB,,,"16.0"""
+"Refurbished: MacBook A1534 Intel Core M-5Y31 X2 1.1GHz 8GB 256GB SSD, Space Gray (Refurbished)",704.99,Intel,,MacBook MacBook A1534,1,Mac OS X v10.10 Yosemite,,,Dual-core Processor,,,Intel HD Graphics 5300,,"12.0"""
+"Refurbished: Apple 3rd Party Refurbished Grade C Laptop MacBook Air MF068LL/A Intel Core i7 4th Gen 4650U (1.70 GHz) 8 GB Memory 256 GB SSD Intel HD Graphics 5000 13.3""",509.99,Apple,MacBook Air,MF068LL/A,,,Intel Core i7 4th Gen,4650U (1.70 GHz),Dual-core Processor,256 GB SSD,8 GB,Intel HD Graphics 5000,Shared system memory,"13.3"""
+"Refurbished: Apple MacBook Pro 15"" Retina - 2.5GHz Intel Core i7-4870HQ Quad, 16 GB RAM, 512 GB flash storage, AMD Radeon R9 M370X 2GB, Force Touch Trackpad, Mac OS X - A1398 MJLT2LL/A (Mid 2015) Wear/Tear","1,125.00",Apple,MacBook Pro,A1398,,Mac OS X v10.13 High Sierra,Intel Core i7 4th Gen,2.50 GHz,Quad-core Processor,512 GB of PCIe-based flash storage,16 GB,"dual graphics processors -- an AMD Radeon R9 M370X with 2 GB of dedicated GDDR5 memory and an integrated Intel Iris 5200 Pro graphics processor with 128 MB of ""Crystalwell"" embedded DRAM",2 GB,"15.4"""
+"Apple Macbook Air (A1932) with Retina 13.3"" Core i5 1.6GHZ 16GB Ram 256GB SSD Z0VD0003T","1,229.99",Apple,Macbook Air,A1932,,macOS,Intel Core i5,1.60 GHz,,256 GB SSD,16 GB,,,"13.0"""
+"Refurbished: Apple MacBook Pro MB990LL/A 13.3"" Notebook - 2.26GHz Intel Core 2 Duo - 2GB 160GB - Mac OS X v10.6.3",299.99,Apple,MacBook Pro,MB990LL/A,4,Mac OS X v10.6 Snow Leopard,Intel Core 2 Duo,P8400 (2.26 GHz),,160 GB,2 GB,NVIDIA GeForce 9400M,Shared 256 MB,"13.3"""
+"Refurbished: Apple Grade C Laptop MacBook Pro (Mid 2014) MGX92LL/A Intel Core i5 2.80 GHz 8 GB Memory 512 GB SSD 13.3"" Mac OS X v10.9 Mavericks",689.99,Apple,MacBook Pro (Mid 2014),MGX92LL/A,,Mac OS X v10.9 Mavericks,Intel Core i5,2.80 GHz,,512 GB SSD,8 GB,,,"13.3"""
+"Refurbished: Apple Grade C Laptop MacBook Pro RRME874LL/A-C Intel Core i7 2.60 GHz 16 GB Memory 512 GB SSD 15.4"" Mac OS X v10.9 Mavericks","1,147.12",Apple,MacBook Pro,RRME874LL/A-C,,Mac OS X v10.9 Mavericks,Intel Core i7,2.60 GHz,Quad-core Processor,512GB SSD,16 GB,,,"15.4"""
+"Refurbished: Apple MacBook Pro ME294LL/A Intel Core i7-4850HQ X4 2.3GHz 16GB SSD, Silver (Certified Refurbished)",895.00,Apple,,MacBook Pro ME294LL/A,,Mac OS X v10.9 Mavericks,,,Quad-core Processor,,,NVIDIA GeForce GT 750M,,"15.4"""
+"Refurbished: Apple A Grade Macbook Pro 13.3-inch (Retina, Space Gray, Touch Bar) 2.9Ghz Dual Core i5 (Late 2016) MLH12LL/A 256GB SSD 8GB Memory 2560x1600 Display Mac OS Sierra Power Adapter Included",898.00,Apple,MacBook Pro,,,Mac OS X v10.12 Sierra,Intel Core i5,2.9 GHz,Dual-core Processor,256 GB,8 GB,Intel Iris Graphics 550,Shared system memory,"13.3"""
+"Refurbished: Apple MacBook Pro ME293LL/A Intel Core i7-4700HQ X1 2.0GHz 8GB 256GB SSD,Silver(Scratch and Dent)",649.00,Apple,,MacBook Pro ME293LL/A,,Mac OS X v10.9 Mavericks,Intel Core i7 4th Gen,4700HQ (2.40 GHz),Quad-core Processor,,,Intel Iris Pro Graphics,,"15.4"""
+"Refurbished: Apple Grade C Laptop MacBook Air RRMJVR2LL/AU2-C Intel Core i7 2.20 GHz 8 GB Memory 512 GB SSD 11.6"" Mac OS X v10.10 Yosemite",629.99,Apple,MacBook Air,RRMJVR2LL/AU2-C,,Mac OS X v10.10 Yosemite,Intel Core i7,2.20 GHz,,512 GB SSD,8 GB,,,"11.6"""
+"Apple 16"" MacBook Pro (Late 2019, Space Gray) with Corel Program Bundle","2,573.99",Apple,,,,,Intel Core i7,2.60 GHz,,,16 GB,,,"16.0"""
+"Used - Very Good: Apple Laptop MacBook Pro MGXA2LL/A Intel Core i7 2.20 GHz 16 GB Memory 256 GB SSD Intel Iris Graphics 15.4"" Mac OS X v10.10 Yosemite",,Apple,MacBook Pro,MGXA2LL/A,,Mac OS X v10.10 Yosemite,Intel Core i7,2.20 GHz,Quad-core Processor,256 GB SSD,16 GB,Intel Iris Graphics,Shared system memory,"15.4"""
+Refurbished: Apple A Grade Macbook Air 13.3-inch 1.6GHZ Dual Core i5 (Early 2015) MJVE2LL/A 256 GB HD 4 GB Memory 1440 x 900 Display Mac OS X v10.12 Sierra Power Adapter Included,543.99,,MacBook Air,,4,Mac OS X v10.12 Sierra,Intel Core i5 5th Gen,5250U (1.60 GHz),Dual-core Processor,128 GB,4 GB,,,"13.3"""
+"Refurbished: Apple MacBook Air MC968LL/A Intel Core i5-2467M X2 1.6GHz 2GB 64GB, Silver",349.00,Apple,,MacBook Air MC968LL/A,,Mac OS X v10.7 Lion,,,Dual-core Processor,,2 GB,Intel HD Graphics 3000,,"11.6"""
+"Apple 16"" MacBook Pro (Late 2019, Space Gray) with Adapter Cord Bundle","2,550.99",Apple,,,,,Intel Core i7,2.60 GHz,,,16 GB,,,"16.0"""
+"Refurbished: Apple Macbook Pro 13.3"" Laptop Intel i5 2.7GHz 8GB RAM 128GB SSD Case Bundle",654.99,Apple,MacBook Pro,MF839LL/A,,,Intel Core i5,2.70 GHz,,,8 GB,,,"13.3"""
+"Refurbished: Apple MacBook Pro MD101LL/A Intel Core i5-3210M X2 2.5GHz 4GB 500GB 13.3"", Silver (Scratch and Dent)",258.04,Apple,,MacBook Pro MD101LL/A,5,Mac OS X v10.8 Mountain Lion,,,Dual-core Processor,,4 GB,Intel HD Graphics 4000,,"13.3"""
+Refurbished: Apple MacBook Pro - 3rd Generation Turbo i5 - 16GB & 1TB Storage Drive - Mojave,409.97,,,,,Mac OS X v10.14 Mojave,Intel Core i5 3rd Gen,2.5 GHz,,,16 GB,,,"13.3"""
+Refurbished: Apple MacBook Pro A1278 - i5-2435M - 8GB & 500GB HDD - High Sierra - Discounted!,299.99,,,,,,,,,,,,,
+"Used - Like New: Apple Laptop MacBook Pro With Touch Bar MPTR2LL/A Intel Core i7 7th Gen 7700HQ (2.80 GHz) 16 GB Memory 256 GB SSD AMD Radeon Pro 555 15.4"" Mac OS X v10.12 Sierra",,Apple,MacBook Pro With Touch Bar,MPTR2LL/A,,Mac OS X v10.12 Sierra,Intel Core i7 7th Gen,7700HQ (2.80 GHz),Quad-core Processor,256 GB SSD,16 GB,AMD Radeon Pro 555,2 GB,"15.4"""
+"Refurbished: Apple Grade B Laptop MacBook Air MJVM2LL/A Intel Core i5 5250U (1.60 GHz) 4 GB Memory 128 GB SSD Intel HD Graphics 6000 11.6"" Mac OS X v10.10 Yosemite",334.56,Apple,MacBook Air,MJVM2LL/A-B,3,Mac OS X v10.10 Yosemite,Intel Core i5 5th Gen,5250U (1.60 GHz),Dual-core Processor,128 GB SSD,4 GB,Intel HD Graphics 6000,Shared system memory,"11.6"""
+"Refurbished: Apple MacBook Pro Core 2 Duo P8400 2.26GHz 2GB 160GB DVD±RW GeForce 9400M 13.3"" Notebook OS X w/Cam (Mid 2009)",344.99,,,,,,,,,,,,,"13.3"""
+"Refurbished: Apple A Grade Laptop MacBook Air MD760LL/B-Refurb A Intel Core i5 1.30 GHz 4 GB Memory 128 GB SSD Intel HD Graphics 5000 13.3""",,Apple,MacBook Air,MD760LL/B-Refurb A,5,,Intel Core i5,1.30 GHz,,128 GB Flash,4 GB,Intel HD Graphics 5000,Shared system memory,"13.3"""
+"Refurbished: Apple A Grade Macbook Pro 13.3-inch (Retina, Space Gray, Touch Bar) 2.9Ghz Dual Core i5 (Late 2016) MLH12LL/A 128GB SSD 8GB Memory 2560x1600 Display Mac OS Sierra Power Adapter Included",859.00,Apple,MacBook Pro,,,Mac OS X v10.12 Sierra,Intel Core i5,2.9 GHz,Dual-core Processor,128 GB,8 GB,Intel Iris Graphics 550,Shared system memory,"13.3"""
+"Refurbished: Apple MacBook 13.3"" - Intel Core 2 Duo 2.26GHz - 4GB DDR3 Ram - 250GB SATA HDD - WebCam - AirPort Extreme - Mac OS X v10.12 Sierra - A1342 MC207LL/A - Grade B",169.99,Apple,MacBook,A1342,2,Mac OS X v10.12 Sierra,Intel Core 2 Duo,2.26 GHz,Dual-core Processor,250 gb,4 GB,,,"13.3"""
+"Refurbished: Apple Retina MacBook Pro MF843LL/A 13.3in  3.1GHz i7 16GB RAM 256GB Flash SSD 13"" (2015) GRADE A","1,119.99",Apple,MacBook Pro,A1502,,Mac OS X v10.12 Sierra,Intel Core i7,3.10 GHz,Dual-core Processor,256 GB,16 GB,,Shared,"13.3"""
+"Refurbished: Apple Laptop MacBook Air MD224LL/A Intel Core i5 1.70 GHz 4 GB Memory 128GB flash storage HDD Intel HD Graphics 4000 11.6"" Mac OS X v10.7 Lion",299.97,Apple,MacBook Air,MD224LL/A,,Mac OS X v10.7 Lion,Intel Core i5,1.70 GHz,,128GB flash storage,4 GB,Intel HD Graphics 4000,Shared system memory,"11.6"""
+"Refurbished: Apple MacBook Pro MD101LL/A 13.3-inch Laptop 2.5Ghz, 4GB RAM, 500GB HD",398.00,Apple,MacBook Pro,MacBook Pro MD101LL/A,,Mac OS X v10.12 Sierra,Intel Core i5 3rd Gen,2.50 GHz,Dual-core Processor,500 GB,4 GB,Intel HD Graphics 4000,,"13.3"""
+Refurbished: Apple MacBook Pro A1286 - i7-M620 - 8GB & 750GB HDD - High Sierra - Discounted!,349.99,,,,,Mac OS X v10.13 High Sierra,Intel Core i7 1st Gen,2.66 GHz,,,8 GB,,,"15.4"""
+"Apple 13.3"" MacBook Pro Touch Bar (Mid 2018, Space Gray) - MR9Q2LL/A","1,599.00",,MacBook Pro,MR9Q2LL/A,,Mac OS X v10.13 High Sierra,Intel Core i5,2.3 GHz,Quad-core Processor,,8 GB,,,"13.3"""
+"Refurbished: Apple Grade A Laptop MacBook Pro With Touch Bar (Late 2016) MLH12LL/A Intel Core i5 6th Gen 6267U (2.90 GHz) 8 GB Memory 256 GB SSD Intel Iris Graphics 550 13.3"" Mac OS X v10.12 Sierra",941.00,Apple,MacBook Pro With Touch Bar (Late 2016),MLH12LL/A,,Mac OS X v10.12 Sierra,Intel Core i5 6th Gen,6267U (2.90 GHz),Dual-core Processor,256 GB SSD,8 GB,Intel Iris Graphics 550,Shared system memory,"13.3"""
+"Refurbished: Apple MacBook Pro 15.4"" Retina True Tone Laptop (Touch Bar, 8th Gen 6-Core Intel Core i9 2.90GHz, 32GB RAM, 4TB SSD, AMD Radeon Pro 560X 4GB) - A1990 (Mid 2018)","2,449.00",,MacBook Pro,,,,Intel Core i9 8th Gen,2.9 GHz,,,32 GB,,,"15.4"""
+"Refurbished: Apple Laptop MacBook Air MC968LLA (EMC 2471) Intel Core i5 2nd Gen 2 GB Memory 64 GB SSD Intel HD Graphics 3000 11.6"" MacBookAir4,1 Mac OS X v10.13 High Sierra",299.25,,,,,,,,,,,,,
+"Refurbished: Apple A1278 MacBook Pro 13.3 Inches Laptop PC with Intel Dual-Core i7-3520M Processor (2.9 GHz), 8GB Memory, 1TB Hard Drive and OS X 10.11 El Capitan, Heavy Scratches, Silver",275.95,Apple,,,,,,,,,,,,"13.3"""
+"Refurbished: Apple MacBook Pro 13"" ME864LL/A Intel i5-4258U 2.40GHz 8GB RAM 128GB SSD OSX B Grade",479.69,Apple,,,,Mac OS X v10.13 High Sierra,Intel Core i5,2.40 GHz,,,8 GB,,,"13.3"""
+"Refurbished: Apple Laptop MacBook Pro MD318LL/A-R Intel Core i7 2675QM (2.20 GHz) 4 GB Memory 500 GB HDD AMD Radeon HD 6750M 15.4"" Mac OS X v10.7 Lion",469.00,Apple,MacBook Pro,MD318LL/A-R,4,Mac OS X v10.7 Lion,Intel Core i7,2675QM (2.20 GHz),,500 GB,4 GB,AMD Radeon HD 6750M,512 MB,"15.4"""
+"Refurbished: Apple MacBook Pro 15.4"" Laptop - Intel Core i7 2.0GHz Quad (turbo up to 2.90GHz), 8GB Ram, 240GB SSD, AMD Radeon HD 6490M, MacOS High Sierra v10.13 - A1286 MC721LL/A (2011)",509.00,Apple,MacBook Pro,A1286,,Mac OS X v10.13 High Sierra,Intel Core i7,2.00 GHz,Quad-core Processor,240 GB,8 GB,AMD Radeon HD 6490M,256 MB,"15.4"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2019, 512GB SSD, Space Gray)","1,795.00",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple - MacBook Air - 13.3"" Retina Display - Intel Core i5 - 8GB Memory - 256GB Flash Storage (Latest Model) - Silver","1,399.99",Apple,,,1,Mac OS X v10.14 Mojave,Intel Core i5 8th Gen,8210Y (1.60 GHz),,,8 GB,,,"13.3"""
+"Refurbished: Apple Grade D Laptop MacBook Air RRMMGG2LL/A-D Intel Core i5 1.60 GHz 8 GB Memory 256 GB SSD 13.3"" Mac OS X v10.10 Yosemite",461.99,Apple,MacBook Air,RRMMGG2LL/A-D,,Mac OS X v10.10 Yosemite,Intel Core i5,1.60 GHz,,256 GB SSD,8 GB,,,"13.3"""
+"Refurbished: Apple MacBook Pro 13.3"" Retina Laptop - Grade A - 5th gen Intel Core i5 2.70GHz, 256GB SSD, 8GB RAM, Intel Iris Graphics 6100, 2560x1600 res, MacOS Mojave v10.14 - A1502 MF839LL/A (2015)",669.00,Apple,MacBook Pro,A1502,,Mac OS X v10.14 Mojave,Intel Core i5,5257U (2.70 GHz),Dual-core Processor,256 GB SSD,8 GB,Intel Iris Graphics 6100 graphics processor,,"13.3"""
+"Apple 16"" MacBook Pro (Late 2019, Space Gray) with Airpods 2 Bundle","2,767.99",Apple,,,,,Intel Core i7,2.60 GHz,,,16 GB,,,"16.0"""
+"Refurbished: Apple MacBook Pro ME294LL/A Intel Core i7-4850HQ X4 2.3GHz 16GB 512GB SSD, Silver (Scratch and Dent)",894.97,Apple,,MacBook Pro ME294LL/A,,Mac OS X v10.9 Mavericks,,,Quad-core Processor,,,NVIDIA GeForce GT 750M,,"15.4"""
+"Refurbished: Apple MacBook Pro ME864LL/A Intel Core i5-4258U X2 2.4GHz 4GB 128GB, Silver (Certified Refurbished)",575.00,Apple,,MacBook Pro ME864LL/A,,Mac OS X v10.9 Mavericks,,,Dual-core Processor,,,Intel Integrated Graphics,,"13.3"""
+"Refurbished: Apple A Grade Macbook Pro 15.4-inch (Retina DG, Space Gray, Touch Bar) 2.7Ghz Quad Core i7 (Late 2016) MLH42LL/A 512GB SSD 16GB Memory 2880x1800 Display Mac OS Sierra Power Adapter Included","1,309.00",Apple,MacBook Pro,,,Mac OS X v10.12 Sierra,Intel Core i7,2.70 GHz,Quad-core Processor,512 GB,16 GB,AMD Radeon Pro 455,2 GB,"15.4"""
+"Refurbished: Apple Grade C Laptop MacBook Air RRMJVP2LL/AU1-C Intel Core i5 5th Gen 5250U (1.60 GHz) 8 GB Memory 256 GB SSD Intel HD Graphics 6000 11.6"" Mac OS X v10.10 Yosemite",,Apple,MacBook Air,RRMJVP2LL/AU1-C,5,Mac OS X v10.10 Yosemite,Intel Core i5 5th Gen,5250U (1.60 GHz),Dual-core Processor,256 GB SSD,8 GB,Intel HD Graphics 6000,Shared system memory,"11.6"""
+"Refurbished: Apple Grade A Laptop MacBook Air RRMJVR2LL/AU2-A Intel Core i7 2.20 GHz 8 GB Memory 512 GB SSD 11.6"" Mac OS X v10.10 Yosemite",684.99,Apple,MacBook Air,RRMJVR2LL/AU2-A,5,Mac OS X v10.10 Yosemite,Intel Core i7,2.20 GHz,,512 GB SSD,8 GB,,,"11.6"""
+"Refurbished: Apple MacBook Pro ""Retina"" 15.4 inch - Intel® Core™ i7 2.80GHz Quad, 16GB RAM, 256GB Flash Storage, AMD Radeon R9 M370X + Iris 5200 Pro, Force Touch Trackpad, macOS Mojave - A1398 MJLU2LL/A B Mid-2015","1,049.00",Apple,MacBook Pro,A1398 Mid-2015,,Mac OS X v10.14 Mojave,Intel Core i7,4980HQ (2.80 GHz),Quad-core Processor,256GB PCIe based Flash SSD,16 GB,"dual graphics processors -- an AMD Radeon R9 M370X with 2 GB of dedicated GDDR5 memory and an integrated Intel Iris 5200 Pro graphics processor with 128 MB of ""Crystalwell"" embedded DRAM",2 GB,"15.4"""
+"Apple 13.3"" MacBook Air with Retina Display (Mid 2019, Silver)","1,268.94",Apple,,,,,Intel Core i5 8th Gen,8210Y (1.60 GHz),,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air with Retina Display (Late 2018, 128GB, Space Gray) Basic Accessory Bundle Bundle","1,650.00",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air (MREF2LL/A) with Retina Display 1.6GHz Dual-Core i5 CPU, 8GB RAM, 256GB SSD (Late 2018, Gold) - Starter Bundle","1,167.94",Apple,,,,,Intel Core i5,1.60 GHz,,,,,,"13.3"""
+"Refurbished: Apple Laptop MacBook Pro MD104LL/A Intel Core i7 3720QM (2.60 GHz) 8 GB Memory 750 GB HDD NVIDIA GeForce GT 650M 15.4"" Mac OS X v10.7 Lion",639.00,Apple,MacBook Pro,MD104LL/A,,Mac OS X v10.7 Lion,Intel Core i7,3720QM (2.60 GHz),,750 GB,8 GB,NVIDIA GeForce GT 650M,1 GB,"15.4"""
+"Refurbished: Apple Grade A Laptop MacBook Pro (Mid-2015) MJLU2LL/A Intel Core i7 4th Gen 4980HQ (2.80 GHz) 16 GB Memory 1 TB SSD 15.4"" Mac OS X v10.10 Yosemite","1,199.99",Apple,MacBook Pro (Mid-2015),MJLU2LL/A,,Mac OS X v10.10 Yosemite,Intel Core i7 4th Gen,4980HQ (2.80 GHz),Quad-core Processor,1 TB PCIe-based flash storage,16 GB,,,"15.4"""
+Refurbished: Apple Macbook (MNYK2LL/A) 12-inch Retina Display Intel Core m3 8GB Memory 256GB SSD - Gold (Mid-2017),975.00,Apple,MacBook,MNYK2LL/A,,Mac OS X v10.13 High Sierra,Intel Core M3,1.20 GHz,Dual-core Processor,,8 GB,Intel HD Graphics 615,,"12.0"""
+"Refurbished: Apple Macbook White 13.3"" Laptop MB062LL/B Intel Core 2 Duo 2.2Ghz 2GB Ram 120GB HD OSX 10.7 Lion Grade B",149.90,,,,,Mac OS X v10.7 Lion,Intel Core 2 Duo,2.20 GHz,,,2 GB,,,"13.3"""
+"Refurbished: Apple MacBook Pro 13.3"" MB990LL/A Intel Core 2 Duo 2.26ghz 4gb Ram 160gb HD OSX 10.11 El Capitan Grade B",249.90,,,,,Mac OS X v10.11 El Capitan,Intel Core 2 Duo,,,,4 GB,,,"13.3"""
+"Refurbished: Apple Macbook White 13.3"" Laptop MB881LL/A Intel Core 2 Duo 2.0Ghz 2GB Ram 120GB HD OSX 10.11 El Capitan Grade B",149.90,,,,,Mac OS X v10.11 El Capitan,Intel Core 2 Duo,2.00 GHz,,,2 GB,,,"13.3"""
+New Bottom Case feet & Screws +Tools For MacBook Pro A1278 A1286 A1297 2009-2012,6.11,,,,,,,,,,,,,"10.0"""
+"Refurbished: Apple A Grade Macbook Pro 15.4-inch (Retina DG, Space Gray, Touch Bar) 3.1Ghz Quad Core i7 (Mid 2017) MPTT2LL/A-BTO 1TB SSD 16GB Memory 2880x1800 Display Mac OS Sierra Power Adapter Included","1,979.97",Apple,MacBook Pro,,,Mac OS X v10.12 Sierra,Intel Core i7,3.10 GHz,Quad-core Processor,1 TB,16 GB,AMD Radeon Pro 560,4 GB,"15.4"""
+"Refurbished: Apple Grade C Laptop MacBook (2015 Model) RRMK4N2LL/A-C Intel Core M 5Y51 (1.10 GHz) 8 GB Memory 512 GB SSD 12.0"" Mac OS X v10.11 El Capitan",875.00,Apple,MacBook (2015 Model),RRMK4N2LL/A-C,5,Mac OS X v10.11 El Capitan,Intel Core M,5Y51 (1.10 GHz),Dual-core Processor,512 GB SSD,8 GB,,,"12.0"""
+"Apple 13"" MacBook Air,Intel Core i7, 8GB RAM, 128GB SSD,Backlit Keyboard,Thunderbolt 2,SDXC card slot,Bluetooth,Webcam,Mac OS,Silver",899.99,Apple,MacBook Air,,1,Mac OS X v10.12 Sierra,Intel Core i7,2.20 GHz,,128 GB,8 GB,,,"13.3"""
+"Apple 15.4"" MacBook Pro with Touch Bar (Mid 2019, 512GB SSD, Space Gray)","2,525.00",Apple,,,,,,,,,16 GB,,,"15.4"""
+Storite GS23N 8X DVD±RW DL Slot-Loading Notebook SATA Drive for Apple MacBook/MacBook Pro,142.99,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD MQD32LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Blue) + 3 Foot Lightning USB Cable 1 Meter Bundle",900.83,,,,,,,,,,,,,
+"Apple 15.4"" MacBook Pro with Touch Bar (Mid 2019, 512GB SSD, Silver)","2,563.06",Apple,,,,,,,,,16 GB,,,"15.4"""
+"Apple Macbook Pro 15"" A1286 Core i7 2.0Ghz Motherboard 21PWIMB01P0 21PWIMB0120",368.87,,,,5,,,,,,,,,
+"Apple 15.4"" MacBook Pro Laptop MR942LL/A Retina, Touch Bar, 2.6GHz 6-Core Intel Core i7, 16GB RAM, 512GB SSD Storage Space Gray with Padded Case and Mouse  - Starter Bundle","2,571.95",,,,,,,,,,16 GB,,,"15.4"""
+"Refurbished: Apple Grade C Laptop MacBook Pro with Touch Bar (Mid-2017) MPXV2LL/A Intel Core i5 7th Gen 7267U (3.10 GHz) 8 GB Memory 256 GB SSD Intel Iris Plus Graphics 650 13.3"" Mac OS X v10.12 Sierra","1,275.00",Apple,MacBook Pro with Touch Bar (Mid-2017),MPXV2LL/A,,Mac OS X v10.12 Sierra,Intel Core i5 7th Gen,7267U (3.10 GHz),Dual-core Processor,256 GB SSD,8 GB,Intel Iris Plus Graphics 650,Shared system memory,"13.3"""
+"Apple 12"" MacBook (Mid 2017, Gold) (MNYL2LL/A) + Padded Case For Macbook + Apple AirPods Wireless Bluetooth Earphones Bundle","1,643.14",,,,,,,,,,,,,
+"Apple 12"" MacBook (Mid 2017, Gold) MNYL2LL/A + Padded Case For Macbook + Apple AirPods Wireless Bluetooth Earphones Bundle","1,589.13",,,,,,,,,,,,,
+"Apple 12"" MacBook (Mid 2017, Gold) MNYL2LL/A + Padded Case For Macbook + 7 Port USB Hub (White) + Apple AirPods Wireless Bluetooth Earphones Bundle","1,573.36",,,,,,,,,,,,,
+"Apple 12"" MacBook (Mid 2017, Silver) (MNYJ2LL/A) + Padded Case For Macbook + 7 Port USB Hub (White) + Apple AirPods Wireless Bluetooth Earphones Bundle","1,632.45",,,,,,,,,,,,,
+"Apple 12"" MacBook (Mid 2017, Silver) MNYJ2LL/A + Padded Case For Macbook + 7 Port USB Hub (White) + Apple AirPods Wireless Bluetooth Earphones Bundle","1,562.66",,,,,,,,,,,,,
+"Apple 12"" MacBook (Mid 2017, Silver) (MNYJ2LL/A) + Padded Case For Macbook + 2.4 GHz Slim Optical Wireless Bluetooth + Travel USB 5V Wall Charger for iPhone/iPad (White) Bundle","1,653.84",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD MQD32LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Blue) + 3 Foot Lightning USB Cable (1 Meter) Bundle",809.66,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD (MQD32LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Red) + 3 Foot Lightning USB Cable (1 Meter) Bundle",825.48,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD (MQD42LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Red) + 3 Foot Lightning USB Cable 1 Meter Bundle","1,205.83",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD MQD42LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Turquoise) + 3 Foot USB Cable 1 Meter Bundle","1,227.18",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD (MQD42LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" Turquoise + 3 Foot USB Cable 1 Meter Bundle","1,205.79",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD (MQD42LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" Clear + 3 Foot Lightning USB Cable (1 Meter) Bundle","1,197.20",,,,,,,,,,,,,
+"Apple 12"" MacBook (Mid 2017, Gold) (MNYL2LL/A) + Padded Case For Macbook + 7 Port USB Hub (White) + Apple AirPods Wireless Bluetooth Earphones Bundle","1,643.14",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD (MQD42LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" Clear + 3 Foot Lightning USB Cable 1 Meter Bundle","1,202.55",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD (MQD42LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" Black + 3 Foot Lightning USB Cable 1 Meter Bundle","1,205.96",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD (MQD42LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Red) + 3 Foot Lightning USB Cable (1 Meter) Bundle","1,151.82",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD MQD32LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Red) + 3 Foot Lightning USB Cable (1 Meter) Bundle",809.70,,,,,,,,,,,,,
+name,price,brand,series,model,rating,os,cpu_type,cpu_speed,cores,storage,memory,gpu_type,gpu_memory,screen
+"Apple 13.3"" MacBook Air 256GB SSD (MQD42LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Clear) + 3 Foot Lightning USB Cable Bundle","1,148.53",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD (MQD42LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Blue) + 3 Foot Lightning USB Cable Bundle","1,151.64",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Pro (Mid 2017, Space Gray) MPXQ2LL/A + 2.4 GHz Slim Optical Wireless Bluetooth + Travel USB 5V Wall Charger for iPhone/iPad (White) + Padded Case For Macbook Bundle","1,477.63",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD MQD42LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Blue) + 3 Foot Lightning USB Cable 1 Meter Bundle","1,227.04",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD MQD32LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Red) + 3 Foot Lightning USB Cable 1 Meter Bundle",900.88,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Pro (Mid 2017, Space Gray) MPXQ2LL/A + Padded Case For Macbook + MicroFiber Cloth + 7 Port USB Hub (White) + Apple AirPods Wireless Bluetooth Earphones Bundle","1,423.61",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD MQD32LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Black) + 3 Foot Lightning USB Cable (1 Meter) Bundle",809.83,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD (MQD42LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" Red + 3 Foot Lightning USB Cable 1 Meter Bundle","1,205.83",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD (MQD32LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Blue) + 3 Foot Lightning USB Cable 1 Meter Bundle",879.44,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD MQD42LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Clear) + 3 Foot Lightning USB Cable (1 Meter) Bundle","1,132.76",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD (MQD32LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" Turquoise + 3 Foot USB Cable (1 Meter) Bundle",874.10,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD MQD42LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Clear) + 3 Foot Lightning USB Cable 1 Meter Bundle","1,223.94",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD (MQD32LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" Red + 3 Foot Lightning USB Cable (1 Meter) Bundle",874.14,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD MQD42LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Turquoise) + 3 Foot USB Cable (1 Meter) Bundle","1,136.00",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD (MQD32LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" Black + 3 Foot Lightning USB Cable (1 Meter) Bundle",874.27,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD (MQD32LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Red) + 3 Foot Lightning USB Cable 1 Meter Bundle",879.49,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) MPXR2LL/A + Mac Essentials Software Suite, Aftershot Pro 3, Painter Essentials 5, Roxio Toast Express, WinZip 6 Mac + Padded Case For Macbook Bundle","1,466.79",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD (MQD32LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Clear) + 3 Foot Lightning USB Cable 1 Meter Bundle",876.20,,,,,,,,,,,,,
+"128GB SSD Card New 2010 2011 11"" 13"" for Apple MacBook Air macOS13 A1369 A1370 SATA 6.0Gbps",78.99,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD (MQD32LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" Turquoise + 3 Foot USB Cable 1 Meter Bundle",879.44,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD (MQD32LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Black) + 3 Foot Lightning USB Cable 1 Meter Bundle",879.61,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD MQD32LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Black) + 3 Foot Lightning USB Cable 1 Meter Bundle",901.01,,,,,,,,,,,,,
+Apple MacBook Pro Retina Late 2012 Early 2013 13in A1425  SSD 256GB  661-7009,110.76,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) MPXR2LL/A + Padded Case For Macbook + Mac Essentials Software Suite, Aftershot Pro 3, Painter Essentials 5, Roxio Toast Express, WinZip 6 Mac Bundle","1,440.05",,,,,,,,,,,,,
+"Apple MacBook Pro (2012 Model) Intel Core i5 4GB DDR3 500GB HDD 13.3"" Mac OS X v10.8 Mountain Lion (MD101LL/A)",899.89,Apple,MacBook Pro,MD101LL/A,4,Mac OS X v10.8 Mountain Lion,Intel Core i5,2.5 GHz,,500 GB,4 GB,Intel HD Graphics 4000,Shared system memory,"13.3"""
+Refurbished: Apple MacBook IPS M-5Y31 Dual Core 1.1 GHz 8GB 256GB SSD Notebook-Gold (Certified Refurbished),754.99,Apple,,MacBook MacBook Retina A1534,,Mac OS X v10.10 Yosemite,,,Dual-core Processor,,,Intel HD Graphics 5300,,"12.0"""
+"Refurbished: Apple Grade A Laptop MacBook Air (Early 2015) A1465 Intel Core i7 5th Gen 5650U (2.20 GHz) 8 GB Memory 256 GB SSD Intel HD Graphics 6000 13.3"" Mac OS X v10.12 Sierra",795.00,Apple,MacBook Air (Early 2015),A1465,,Mac OS X v10.12 Sierra,Intel Core i7 5th Gen,5650U (2.20 GHz),Dual-core Processor,256 GB SSD,8 GB,Intel HD Graphics 6000,Shared system memory,"13.3"""
+"Apple 13.3"" MacBook Air with Retina Display MREF2LL/A (Late 2018, Gold) with Cleaning Kit, Corel Photo Essentials Kit, Surge Protector, Wireless Mouse, and 1-Year Extended Warranty","1,212.35",,,,,,,,,,8 GB,,,"13.3"""
+"Apple MacBook Air 13.3""1440 x 900 Glossy|Intel Core i7|8GB RAM|128GB SSD| Backlit Keyboard |Thunderbolt 2|SDXC port|Bluetooth|Webcam| Mac OS| Silver",899.99,apple,Macbook Air,,,Mac OS,Intel Core i7,2.20 GHz,,128 GB,8 GB,,,"13.3"""
+"Refurbished: Apple MacBook Pro MC721LL/A Intel Core i7-2635QM X4 2.0GHz 4GB 500GB 15.4"", Silver (Refurbished)",425.00,Apple,,MacBook Pro MC721LL/A,,Mac OS X v10.6 Snow Leopard,,,Quad-core Processor,,,Intel HD Graphics 3000,,"15.4"""
+"Refurbished: Apple MacBook Pro Retina i7-3635QM x4 2.4GHz 8GB 256GB SSD GeForce GT 650M 15.4""-Refurbished",753.09,Apple,,MacBook Pro ME664LL/A,,Mac OS X v10.8 Mountain Lion,,,Quad-core Processor,,,Intel HD Graphics 4000,,"15.4"""
+"Refurbished: Apple MacBook MLH72LL/A Intel Core M3-6Y30 X2 1.1GHz 8GB 512GB SSD 12"", Silver (Scratch and Dent)",848.99,,,,,,,,,,8 GB,2304 x 1440,,"12.0"""
+"Apple 15.4"" MacBook Pro with Touch Bar (Mid 2019, Silver) MV932LL/A With Cleaning Kit and Soft Case - Base Bundle","2,568.91",,MacBook Pro,,,,,2.3 GHz,,,16 GB,AMD Radeon Pro 560,,"15.4"""
+"Apple 15.4"" MacBook Pro with Touch Bar (Mid 2019, Space Gray) MV912LL/A With Cleaning Kit, Soft Case, Corel Software, Ear Pods, Magic Mouse - Starter","2,673.36",,MacBook Pro,,,,,2.3 GHz,,,16 GB,AMD Radeon Pro 560,,"15.4"""
+"Apple 13.3"" MacBook Air 128GB SSD (Starters Bundle)",740.29,,,,4,,,,,,,,,"13.0"""
+"CBK Battery A1495 020-8084-A For MacBook Air 11"" A1465 2013 2014 2015 MD711LL/A MD711LL/B MJVM2LL/A",74.00,CBK,,,,,,,,,,,,
+"CBK Battery A1495 020-8084-A For MacBook Air 11"" A1465 2013 2014 2015 MD711LL/A MD711LL/B MJVM2LL/A",74.00,CBK,,,,,,,,,,,,
+VG Multiple Briefcase Messenger Backpack Shoulder Bag for Apple MacBook/ Lenovo/ Dell/ ASUS/ Acer/ HP/ Toshiba/ Samsung/ Sony/ MSI 13.3/ 14/ 14.1/ 15/ 15.4/ 15.6 inch Laptop Chrome/ Ultrabook (Gray),106.90,Vangoddy,,,,,,,,,,,,
+"Laptop Sleeve Notebook Pouch Messenger Bag Briefcase PC Pouch 12.5""/13.3"" for Acer Chromebook/Aspire/Asus ZenBook/HP Pavilion/Stream/Envy/Apple Macbook",148.00,Vangoddy,,,,,,,,,,,,
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2019, 512GB SSD, Silver)","1,894.57",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2019, 512GB SSD, Space Gray)","1,905.30",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) MPXR2LL/A + Apple AirPods Wireless Bluetooth Earphones + Travel USB 5V Wall Charger for iPhone/iPad (White) Bundle","1,445.40",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) MPXR2LL/A + Travel USB 5V Wall Charger for iPhone/iPad (White) + Apple AirPods Wireless Bluetooth Earphones Bundle","1,375.61",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) MPXR2LL/A + 7 Port USB Hub (White) + Apple AirPods Wireless Bluetooth Earphones + MicroFiber Cloth Bundle","1,445.40",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD + Apple Magic Mouse 2 + 3 Foot Lightning USB Cable (1 Meter) + 3-Year Extended Warranty Bundle",939.04,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD + Apple Magic Mouse 2 + 3 Foot Lightning USB Cable (1 Meter) + 2-Year Extended Warranty Bundle",890.37,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD + Green 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 2-Year Extended Warranty Bundle","1,139.98",,,,,,,,,,,,,
+"Apple 12"" MacBook (Mid 2017, Silver) MNYJ2LL/A + Travel USB 5V Wall Charger for iPhone/iPad (White) + eDigitalUSA MicroFiber Cleaning Cloth + 7 Port USB Hub (White) Bundle","1,578.44",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD + Apple Magic Mouse 2 + 3 Foot Lightning USB Cable (1 Meter) + 2-Year Extended Warranty Bundle","1,216.72",,,,,,,,,,,,,
+"Apple 12"" MacBook (Mid 2017, Silver) (MNYJ2LL/A) + Travel USB 5V Wall Charger for iPhone/iPad (White) + eDigitalUSA MicroFiber Cleaning Cloth + 7 Port USB Hub (White) Bundle","1,632.45",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD + Apple Magic Mouse 2 + 3 Foot Lightning USB Cable (1 Meter) + 1-Year Extended Warranty Bundle",874.60,,,,,,,,,,,,,
+"Apple 12"" MacBook (Mid 2017, Gold)(MNYL2LL/A) + Mac Essentials Software Suite, Aftershot Pro 3, Painter Essentials 5, Roxio Toast Express, WinZip 6 Mac + 2.4 GHz Slim Optical Wireless Bluetooth Bundle","1,664.53",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD + Red 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 3-Year Extended Warranty Bundle",862.44,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD + Red 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 3-Year Extended Warranty Bundle","1,188.64",Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air 256GB SSD + Blue 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 2-Year Extended Warranty Bundle","1,139.98",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD + Black 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 1-Year Extended Warranty Bundle","1,124.20",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD + Pink 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 3-Year Extended Warranty Bundle","1,188.64",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD + Apple Magic Mouse 2 + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover (Turquoise) + 1-Year Extended Warranty Bundle",884.81,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD + Green 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 1-Year Extended Warranty Bundle","1,124.20",,,,,,,,,,,,,
+"Apple 12"" MacBook MLHC2LL/A Retina Display 256GB With Case, Corel Software , Accidental Warranty, Magic Mouse 2 and Air Pods - Executive Bundle","1,685.14",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD + Red 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 2-Year Extended Warranty Bundle","1,139.98",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD + Apple Magic Mouse 2 + 3 Foot Lightning USB Cable (1 Meter) + 3-Year Extended Warranty Bundle","1,265.38",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD + Green 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 1-Year Extended Warranty Bundle",797.93,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD + Pink 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 2-Year Extended Warranty Bundle","1,144.50",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD + Apple Magic Mouse 2 + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover (Clear) + 1-Year Extended Warranty Bundle","1,207.93",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD + Apple Magic Mouse 2 + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover (Black) + 1-Year Extended Warranty Bundle",884.97,Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air 128GB SSD + Apple Magic Mouse 2 + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover (Clear) + 1-Year Extended Warranty Bundle",881.56,Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air 256GB SSD + Green 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 3-Year Extended Warranty Bundle","1,188.64",Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air 256GB SSD + Black 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 2-Year Extended Warranty Bundle","1,139.98",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Pro (Mid 2017, Space Gray) MPXQ2LL/A + 7 Port USB Hub (White) + Mac Essentials Software Suite, Aftershot Pro 3, Painter Essentials 5, Roxio Toast Express, WinZip 6 Mac Bundle","1,499.02",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD + Apple Magic Mouse 2 + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover (Turquoise) + 1-Year Extended Warranty Bundle","1,211.18",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD + Apple Magic Mouse 2 + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover (Black) + 1-Year Extended Warranty Bundle","1,211.34",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Pro (Mid 2017, Space Gray) MPXQ2LL/A + Mac Essentials Software Suite, Aftershot Pro 3, Painter Essentials 5, Roxio Toast Express, WinZip 6 Mac + 7 Port USB Hub (White) Bundle","1,472.28",,,,,,,,,,,,,
+"Apple 12"" MacBook Gold MLHF2LL/A Retina Display 512GB With Case, Corel Software , Accidental Warranty, Magic Mouse 2 and Air Pods - Executive Bundle","1,669.10",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD + Blue 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 1-Year Extended Warranty Bundle",797.93,Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air 256GB SSD + Pink 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 1-Year Extended Warranty Bundle","1,124.20",Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air 128GB SSD + Black 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 1-Year Extended Warranty Bundle",798.00,Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air 128GB SSD + Black 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 3-Year Extended Warranty Bundle",862.44,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD + Red 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 1-Year Extended Warranty Bundle",798.00,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD + Pink 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 3-Year Extended Warranty Bundle",862.44,Apple,,,,,,,,,,,,"13.3"""
+"Apple 12"" MacBook (Mid 2017, Gold) MNYL2LL/A + Mac Essentials Software Suite, Aftershot Pro 3, Painter Essentials 5, Roxio Toast Express, WinZip 6 Mac + 2.4 GHz Slim Optical Wireless Bluetooth Bundle","1,637.80",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD + Apple Magic Mouse 2 + 3 Foot Lightning USB Cable (1 Meter) + 1-Year Extended Warranty Bundle","1,200.94",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD + Black 2.4 GHz Slim Optical Wireless Bluetooth Mouse + 3 Foot Lightning USB Cable (1 Meter) + 2-Year Extended Warranty Bundle",813.78,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD + Apple Magic Mouse 2 + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover (Red) + 1-Year Extended Warranty Bundle","1,211.21",,,,,,,,,,,,,
+name,price,brand,series,model,rating,os,cpu_type,cpu_speed,cores,storage,memory,gpu_type,gpu_memory,screen
+"Apple MacBook Air (2012 Model) Intel Core i5 4GB DDR3 128GB SSD 13.3"" Mac OS X v10.8 Mountain Lion  (MD231LL/A)","1,399.95",Apple,MacBook Air,MD231LL/A,5,Mac OS X v10.7 Lion,Intel Core i5,1.80 GHz,,128GB flash storage,4 GB,Intel HD Graphics 4000,Shared system memory,"13.3"""
+"Apple MD224LL/A 1.7 GHz 11.6"" 128GB MacBook Air (New 2012 Model)","1,299.95",Apple,MacBook Air,MD224LL/A,5,Mac OS X v10.7 Lion,Intel Core i5,1.70 GHz,,128GB flash storage,4 GB,Intel HD Graphics 4000,Shared system memory,"11.6"""
+"Apple 15.4"" MacBook Pro with Touch Bar (Mid 2019, Space Gray) MV912LL/A With Cleaning Kit and Soft Case - Base Bundle","2,563.56",,MacBook Pro,,,,,2.3 GHz,,,16 GB,AMD Radeon Pro 560,,"15.4"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2019, Space Gray) With Cleaning Kit and Soft Case - Base Bundle","1,912.53",,MacBook Pro,,,,Intel Core i5,2.40 GHz,,,8 GB,Intel Iris Graphics,,"13.3"""
+"Refurbished: Apple 13"" MacBook Air Retina display, 1.6GHz dual-core Intel Core i5, 16GB, 512GB Flash - Gold","2,450.00",,MacBook Air,,,,Intel Core i5 8th Gen,1.60 GHz,,,16 GB,,,"13.3"""
+"Apple 15.4"" MacBook Pro with Touch Bar (Mid 2019, Space Gray) (MV902LL/A) With Cleaning Kit and Soft Case - Base Bundle","2,232.01",,MacBook Pro,,,,Intel Core i7,2.60 GHz,,,16 GB,AMD Radeon Pro 555,,"15.4"""
+"2019 MacBook Air 13-inch: 1.6GHz dual-core Intel Core i5, 256GB (Space Gray) with Adapter Cord bundle and 7 port USB Hub Essentials Bundle","1,342.64",,,,,,,,,,,,,
+"Apple 15.4"" MacBook Pro with Touch Bar (Mid 2019, Space Gray) MV912LL/A With Cleaning Kit, Soft Case, Corel Software, Air Pods, Magic Mouse, Magic TrackPad, USB-C toUSB Adapter - Magic Bundle","2,977.37",,MacBook Pro,,,,,2.3 GHz,,,16 GB,AMD Radeon Pro 560,,"15.4"""
+"Apple MacBook Air (2013 Model) Intel Core i5 4GB LPDDR3 128GB SSD 13.3"" Mac OS X v10.8 Mountain Lion (MD760LL/A)","1,299.95",Apple,MacBook Air,MD760LL/A,5,Mac OS X v10.8 Mountain Lion,Intel Core i5,1.30 GHz,,128GB SSD,4 GB,Intel HD Graphics 5000,Shared system memory,"13.3"""
+"13 Inch MacBook Air 256GB SSD Intel Core i5 (Mid 2017, Silver) MQD42LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, Fitted Case, and Cleaning Kit","1,076.88",,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"13 Inch MacBook Air w/ Retina Display 256GB SSD (Late 2018, Gold) MREF2LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, Fitted Case, USB 3.0 3-In-1 Hub, and Cleaning Kit","1,192.27",,,,,,,1.60 GHz,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air 128GB SSD #MQD32LL/A (Newest Version) With 2 Year Extended Warranty Black Bundle",766.44,,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2019, 256GB SSD, Silver)","1,712.75",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2019, 256GB SSD, Space Gray)","1,669.00",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Refurbished: Apple MacBook Pro MJLQ2LL/A Intel Core i7-4770HQ X4 2.2GHz 16GB 256GB SSD, Silver (Refurbished)","1,124.00",Apple,,MacBook Pro MJLQ2LL/A,,Mac OS X v10.10 Yosemite,,,Quad-core Processor,,,Intel Iris Pro Graphics,,"15.4"""
+"Apple MacBook Mid 2009-Mid 2012  Pro 13""  A1278 Magsafe Board with Cable 922-9307",14.99,,,,,,,,,,,,,
+"Refurbished: Apple MacBook MJY42LL/A Intel Core M-5Y51 X2 1.2GHz 8GB 512GB SSD 12"", Gray",699.00,Apple,,MacBook MJY42LL/A,,,,,Dual-core Processor,,,Intel HD Graphics 5300,,"12.0"""
+"Apple 13.3 Inch MacBook Pro Laptop Computer with Touch Bar 256GB SSD (Mid 2018 Version, Silver)  Bundle with TYPE-C USB 3.0 Multiport HUB + Mouse + More","1,432.66",Apple,,,,,Intel Core i5 8th Gen,2.3 GHz,,,8 GB,,,"13.3"""
+"Refurbished: Apple Laptop - Grade C MacBook Air MC968LL/A-C Intel Core i5 2467M (1.60 GHz) 2 GB Memory 64 GB SSD Intel HD Graphics 3000 11.6""",355.00,Apple,MacBook Air,MC968LL/A-C,5,,Intel Core i5,2467M (1.60 GHz),Dual-core Processor,64 GB SSD,2 GB,Intel HD Graphics 3000,Shared system memory,"11.6"""
+"Apple MacBook Air Mid 2011  11"" A1370  MC968LL/A  SSD Hard Drive 256GB  661-6052",110.76,,,,,,,,,,,,,
+"Apple MacBook Air 13"" A1369 Mid 2011 661-6052  MD508LL/A 256GB SSD Hard Drive",110.76,,,,,,,,,,,,,
+"Apple Macbook Pro 13"" A1425  Logic Board  Early 2013 ME662LL/A EMC 2672 820-3462-A",321.30,,,,,,,,,,,,,
+"Refurbished: Apple MacBook Pro ME293LL/A Intel Core i7-4700HQ X1 2.0GHz 8GB 256GB SSD,Silver(Scratch and Dent)",649.00,Apple,,MacBook Pro ME293LL/A,,Mac OS X v10.9 Mavericks,Intel Core i7 4th Gen,4700HQ (2.40 GHz),Quad-core Processor,,,Intel Iris Pro Graphics,,"15.4"""
+"Apple 15.4"" MacBook Pro with Touch Bar (Mid 2019, 256GB SSD, Silver)","2,215.58",Apple,,,,,,,,,16 GB,,,"15.4"""
+"Refurbished: Apple Laptop MacBook MLHA2LL/A CRB Intel Core M3 1.10 GHz 8 GB Memory 256 GB SSD 12.0""",845.00,Apple,MacBook,MLHA2LL/A CRB,,,Intel Core M3,1.10 GHz,,256 GB SSD,8 GB,,,"12.0"""
+"Refurbished: Apple MacBook Pro MC975LL/A Intel Core i7-3615QM X4 2.3GHz 8GB 256GB SSD,Silver (Scratch and Dent)",669.99,Apple,,MacBook Pro  MC975LL/A,,Mac OS X v10.7 Lion,Intel Core i7,2.3 GHz,Quad-core Processor,,,NVIDIA GeForce GT 650M,,"15.4"""
+"Refurbished: Apple MacBook Pro MR962LL/A 15.4 Inch 2.2GHz i7 Touch Bar Silver (16GB RAM, Radeon Pro 555X) Previous Model, Mid 2018","1,549.00",Apple,MacBook Pro,A1990,,Mac OS X v10.14 Mojave,Intel Core i7 8th Gen,8750H (2.20 GHz),6-core Processor,256 GB of onboard flash storage,16 GB,Dual Graphics Cards - AMD Radeon Pro 555X with 4 GB of dedicated GDDR5 memory and an integrated Intel UHD Graphics 630 graphics processor,4 GB of dedicated GDDR5 memory,"15.4"""
+"Apple 13 Inch MacBook Air Laptop with Retina Display 128GB SSD (Mid 2019 Version, Space Gray) with Wireless Mouse + More","1,024.90",Apple,,,,,,,,,8 GB,,,"13.0"""
+"Apple 13 Inch MacBook Air Laptop with Retina Display 128GB SSD (Mid 2019 Version, Space Gray) with USB-C to USB Adapter + More","1,041.19",Apple,,,,,,,,,8 GB,,,"13.0"""
+"Apple 13.3"" MacBook Air 256GB SSD #MQD42LL/A + Padded Case For Macbook + Fibercloth + Ultra-Slim 2.4 GHz Optical Wireless Mouse with USB Nano Receiver For Laptop PC Macbook (White) Bundle","1,071.37",,,,,,,,,,,,,"13.3"""
+"Apple 12"" MacBook (Mid 2017, Space Gray) Bundle - MNYF2LL/A","1,349.00",Apple,,,,,,,,256 GB,8GB,,,"12.0"""
+"Apple 13 Inch MacBook Pro Laptop with Touch Bar (Mid 2018 Version, Space Gray) MR9R2LL/A 512GB SSD - Bundle with Carrying Case + Mouse + More","1,629.22",Apple,,,,,,,,,8 GB,,,"13.0"""
+"Apple 13.3 Inch MacBook Pro Laptop (Mid 2017 Version, Space Gray) MPXQ2LL/A 128GB - Bundle with Carrying Case + Mouse + More","1,233.57",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air 128GB SSD #MQD32LL/A + Padded Case For Macbook + Fibercloth + Ultra-Slim 2.4 GHz Optical Wireless Mouse with USB Nano Receiver For Laptop PC Macbook (White) Bundle",745.09,,,,,,,,,,,,,"13.3"""
+"APPLE 13.3 Inch MACBOOK PRO Laptop WITH TOUCH BAR SPANISH KEYBOARD (MID 2019, SPACE GRAY) MV962E/A - Bundle with Apple Lightning to USB Charge & Sync Cable + LCD Screen Cleaner","2,028.99",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13 Inch MacBook Pro Laptop with Touch Bar (Mid 2018 Version, Space Gray) MR9R2LL/A 512GB SSD - Bundle with USB 3.0 Type-C Hub + Carrying Case + Mouse + More","1,644.52",Apple,,,,,,,,,8 GB,,,"13.0"""
+"APPLE 13.3 Inch MACBOOK PRO Laptop WITH TOUCH BAR SPANISH KEYBOARD (MID 2019, SPACE GRAY) MV962E/A - Bundle with USB 3.0 Type-C Hub + Carrying Case + Mouse + More","2,040.99",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3 Inch MacBook Pro Laptop with Touch Bar (Mid 2019 Version, Space Gray) MV962LL/A 256GB SSD - Bundle with Apple Lightning to USB Charge & Sync Cable + LCD Screen Cleaner","1,737.29",Apple,,,,,,,,,8 GB,,,"13.3"""
+Apple MacBook 12'' Display Intel Core M3 1.20 GHz 8 GB Memory 256 GB PCIe SSD Intel HD Graphics 615  Mac OS X v10.12 Sierra(MNYF2LL/A),"1,195.00",,,,,Mac OS X v10.12 Sierra,Intel Core M3,1.20 GHz,,,8 GB,,,"12.0"""
+"Apple 13.3 Inch MacBook Pro Laptop (Mid 2017 Version, Space Gray) MPXQ2LL/A 128GB - Bundle with USB 3.0 Type-C Hub + Carrying Case + Mouse + More","1,248.88",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3 Inch MacBook Pro Laptop with Touch Bar (Mid 2019 Version, Space Gray) MV962LL/A 256GB SSD - Bundle with Carrying Case + Mouse + More","1,725.39",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13 Inch MacBook Pro Laptop with Touch Bar (Mid 2018 Version, Space Gray) MR9R2LL/A 512GB SSD - Bundle with Apple Lightning to USB Charge & Sync Cable + Carrying Case + Mouse + More","1,651.86",Apple,,,,,,,,,8 GB,,,"13.0"""
+"Apple 13 Inch MacBook Pro Laptop with Touch Bar (Mid 2018 Version, Space Gray) MR9R2LL/A 512GB SSD - Bundle with Apple Lightning to USB Charge & Sync Cable + LCD Screen Cleaner","1,641.12",Apple,,,,,,,,,8 GB,,,"13.0"""
+"Apple 13.3 Inch MacBook Pro Laptop (Mid 2017 Version, Space Gray) MPXQ2LL/A 128GB - Bundle with Apple Lightning to USB Charge & Sync Cable + Carrying Case + Mouse + More","1,256.21",,,,,,,,,,,,,
+"Apple 13.3 Inch MacBook Pro Laptop with Touch Bar (Mid 2019 Version, Space Gray) MV962LL/A 256GB SSD - Bundle with USB 3.0 Type-C Hub + Carrying Case + Mouse + More","1,740.70",Apple,,,,,,,,,8 GB,,,"13.3"""
+"APPLE 13.3 Inch MACBOOK PRO Laptop WITH TOUCH BAR SPANISH KEYBOARD (MID 2019, SPACE GRAY) MV962E/A - Bundle with Apple Lightning to USB Charge & Sync Cable + Carrying Case + Mouse + More","2,046.99",,,,,,,,,,,,,
+"Apple 13.3 Inch MacBook Pro Laptop (Mid 2017 Version, Space Gray) MPXQ2LL/A 128GB - Bundle with Apple Lightning to USB Charge & Sync Cable + LCD Screen Cleaner","1,245.48",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 12"" MacBook MNYL2LL/A (Mid 2017, Gold) with Microfiber Cloth, Cleaning Kit, and 1-Year Extended Warranty","1,400.87",,,,,,,,,,8 GB,,,"12.0"""
+"Apple 13.3 Inch MacBook Pro Laptop (Mid 2017 Version, Space Gray) MPXQ2LL/A 128GB - Bundle with Apple Lightning to USB Charge & Sync Cable + USB 3.0 Type-C Hub + Carrying Case + Mouse + More","1,291.76",Apple,,,,,,,,,8 GB,,,"13.3"""
+"APPLE 13.3 Inch MACBOOK PRO Laptop WITH TOUCH BAR SPANISH KEYBOARD (MID 2019, SPACE GRAY) MV962E/A - Bundle with Apple Lightning to USB Charge & Sync Cable + USB 3.0 Type-C Hub + Mouse","2,109.99",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3 Inch MacBook Pro Laptop with Touch Bar (Mid 2019 Version, Space Gray) MV962LL/A 256GB SSD - Bundle with Apple Lightning to USB Charge & Sync Cable + Carrying Case + Mouse + More","1,748.03",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3 Inch MacBook Pro Laptop with Touch Bar (Mid 2019 Version, Space Gray) MV962LL/A 256GB SSD - Bundle with Apple Lightning to USB Charge & Sync Cable + USB 3.0 Type-C Hub + Carrying Case","1,783.47",Apple,,,,,,,,,8 GB,,,"13.3"""
+"820-00850-A Apple Macbook PRO A1989 13.3"" I5-8259U 8GB RAM 256GB SSD Logic Board 661-09739 Laptop Motherboards",823.99,,,,,,,,,,,,,
+"Apple 12"" MacBook MLHA2LL/A (Early 2016, Silver) with Microfiber Cloth, Cleaning Kit, and 1-Year Extended Warranty","1,053.27",,,,,,,,,,8 GB,,,"12.0"""
+"Apple 13.3"" MacBook Pro MPXR2LL/A (Mid 2017, Silver) with Microfiber Cloth, Cleaning Kit, and 1-Year Extended Warranty","1,203.07",,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13 Inch MacBook Pro Laptop with Touch Bar (Mid 2018 Version, Space Gray) MR9R2LL/A 512GB SSD - Bundle with Apple Lightning to USB Charge & Sync Cable + USB 3.0 Type-C Hub + Mouse","1,687.35",Apple,,,,,,,,,8 GB,,,"13.0"""
+"Apple 13.3"" MacBook Air with Retina Display MREF2LL/A (Late 2018, Gold) with Microfiber Cloth, Cleaning Kit, and 1-Year Extended Warranty","1,176.29",,,,,,,,,,8 GB,,,"13.3"""
+"Apple 12"" MacBook MNYL2LL/A (Mid 2017, Gold) with Cleaning Kit, Corel Photo Essentials Kit, Surge Protector, Wireless Mouse, and 1-Year Extended Warranty","1,436.88",,,,,,,,,,8 GB,,,"12.0"""
+"Apple 12"" MacBook MLHA2LL/A (Early 2016, Silver) with Microfiber Cloth, Cleaning Kit, Corel Photo Essentials Kit, Surge Protector, Wireless Mouse, and 1-Year Extended Warranty","1,089.28",,,,,,,,,,8 GB,,,"12.0"""
+"Apple 12"" MacBook MLHA2LL/A (Early 2016, Silver) with Microfiber Cloth, Cleaning Kit, Corel Photo Essentials Kit, Surge Protector, Wireless Mouse, Apple AirPods 1, and 1-Year Extended Warranty","1,233.74",,,,,,,,,,8 GB,,,"12.0"""
+"Apple 13.3"" MacBook Pro MPXR2LL/A (Mid 2017, Silver) with Cleaning Kit, Corel Photo Essentials Kit, Surge Protector, Wireless Mouse, Apple AirPods 1, and 1-Year Extended Warranty","1,383.61",,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro MPXR2LL/A (Mid 2017, Silver) with Cleaning Kit, Corel Photo Essentials Kit, Surge Protector, Wireless Mouse, and 1-Year Extended Warranty","1,239.23",,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air with Retina Display MREF2LL/A (Late 2018, Gold) with Cleaning Kit, Corel Photo Essentials Kit, Surge Protector, Wireless Mouse, Apple AirPods 1, and 1-Year Extended Warranty","1,356.88",,,,,,,,,,8 GB,,,"13.3"""
+"Apple 12"" MacBook MNYL2LL/A (Mid 2017, Gold) with Cleaning Kit, Corel Photo Essentials Kit, Surge Protector, Wireless Mouse, Apple AirPods 1, and 1-Year Extended Warranty","1,581.34",,,,,,,,,,8 GB,,,"12.0"""
+"Refurbished: Apple Mid 2017 15"" MacBook Pro ""Retina"" 3.1GHz i7/16GB RAM/1TB Flash/AMD Radeon Pro 560/Touch Bar/Space Gray MPTR2LL/A","1,699.00",Apple,MacBook Pro,"Mid 2017 15"" (Touch Bar)",,Mac OS X v10.12 Sierra,Intel Core i7 7th Gen,7920HQ (3.10 GHz),Quad-core Processor,,16 GB,,4 GB,"15.4"""
+"Refurbished: Apple Retina MacBook Pro 15"" Core i7 2.8GHz 16GB RAM 256GB SSD MGXG2LL/A GRADE A",879.00,Apple,MacBook Pro,A1398,,Mac OS X v10.12 Sierra,Intel Core i7,2.80 GHz,Quad-core Processor,256GB PCIe Flash Storage SSD,16 GB,,Shared,"15.4"""
+"Apple 12"" MacBook (Early 2015, Space Gray) - Bundle","1,148.48",Apple,,,,,,,,,,,,"12.0"""
+"Apple 12"" MacBook 2018, Gold - Bundle","1,218.00",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 12"" MacBook (Mid 2017, Gold) - Bundle","1,399.82",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 12"" MacBook (Mid 2017, Silver) - Bundle","1,389.12",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2018, Silver) - Bundle","1,415.88",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air with Retina Display (Late 2018, Gold) - Bundle","1,175.37",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro Mid 2017, Space Gray - Bundle","1,234.18",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 12"" MacBook (Mid 2017, Gold) - Bundle","1,399.82",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 13.3"" MacBook Pro with Touch Bar Mid 2018, Space Gray - Bundle","1,629.83",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 12"" MacBook Early 2016, Silver - Bundle","1,052.22",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2018, Silver) - Bundle","1,415.88",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) - Bundle","1,201.98",Apple,,,,,,,,,8 GB,,,"13.3"""
+"ThePixelConnection Apple 13.3"" MacBook Air 256GB SSD + Padded Case For Macbook + Fibercloth Bundle","1,066.99",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 12"" MacBook (Early 2016, Silver) - Bundle","1,351.82",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 13.3"" MacBook Air Mid 2017, Silver - Bundle",747.56,Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2018, Space Gray) - Bundle","1,629.96",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Space Gray) - Bundle","1,234.31",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 12"" MacBook (Early 2015, Gold) - Bundle","1,121.87",Apple,,,,,,,,,,,,"12.0"""
+"Apple 15.4"" MacBook Pro Laptop Computer with Retina Display & Touch Trackpad - Bundle","3,234.45",Apple,,,,,,,,,16 GB,,,"15.4"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2019, Space Gray) - Bundle","1,918.56",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro with Touch Bar Mid 2018, Silver - Bundle","1,736.87",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 12"" MacBook (Early 2016, Gold) - Bundle","1,335.65",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 13.3"" MacBook Air (Mid 2017, Silver) - Bundle",747.43,Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro Mid 2017, Silver - Bundle","1,202.15",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air (Mid 2017, 128GB SSD, Silver) - Bundle",747.48,Apple,,,,,,,,,8 GB,,,"13.3"""
+"Refurbished: Apple MacBook 13.3"" Notebook - Intel Core 2 Duo T7400 2.16 GHz  1 GB RAM  120 GB HDD - Intel Graphics Media Accelerator 950 Graphics - OS X 10.4 Tiger - 1280 x 800 MB062LL/A",165.00,Apple,,MB062LL/Arefurb,4,Mac OS X v10.4 Tiger,,2.20 GHz,,,1 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air with Retina Display (Late 2018, 256GB, Gold) - Bundle","1,175.24",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2019, Silver) - Bundle","1,726.00",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 15.4"" MacBook Pro with Touch Bar Mid 2019, Space Gray - Bundle","2,239.50",Apple,,,,,,,,,16 GB,,,"15.4"""
+"Refurbished: Apple Laptop MacBook Pro 13.3"" Intel Core i5 2.3GHz, 4GB Memory, 320GB HDD, Intel HD Graphics 3000, Thunderbolt, Bluetooth, OS X v10.11 El Capitan - ""Unibody"" aluminum A1278 MC700LL/A - Grade A",389.50,Apple,MacBook Pro,A1278,3,Mac OS X v10.11 El Capitan,Intel Core i5,2.3 GHz,Dual-core Processor,320 GB,4 GB,,,"13.3"""
+"Refurbished: Apple Laptop MacBook Pro MD035LL/A-R Intel Core i7 2820QM (2.30 GHz) 4 GB Memory 750 GB HDD AMD Radeon HD 6750M 15.4"" Mac OS X v10.7 Lion",640.92,Apple,MacBook Pro,MD035LL/A-R,4,Mac OS X v10.7 Lion,Intel Core i7,2820QM (2.30 GHz),,750 GB,4 GB,AMD Radeon HD 6750M,1 GB,"15.4"""
+"Apple 13"" MacBook Pro, Retina Display, 2.3GHz Intel Core i5 Dual Core, 8GB RAM, 128GB SSD, Silver, With Case And Mouse","1,204.39",Apple,,,,,,,,,8 GB,,,"13.0"""
+"Apple 13.3"" MacBook Air (Mid 2017, 128GB SSD, Silver) Basic Bundle",735.17,Apple,MacBook Air,,,Mac OS X v10.13 High Sierra,Intel Core i5,1.80 GHz,,,8 GB,Intel HD Graphics 6000,,"13.3"""
+"Apple MacBook 12"" 256GB SSD, 8GB RAM 1.2Ghz, Gold (2017) MRQN2LL/A","1,082.52",Apple,MacBook,MRQN2LL/A,,macOS High Sierra,Intel Core M3,1.20 GHz,,256GB SSD,8 GB,,,"12.0"""
+"Apple 13.3"" MacBook Pro (Mid 2017, 128GB, Silver) Basic Bundle","1,189.75",Apple,,,,,,,,,8 GB,,,"13.3"""
+2018 Apple 13.3 MacBook Pro with Touch Bar 2.3GHz 512GB (Silver) with Adapter Cord bundle and 7 port USB Hub Essentials Bundle,"1,770.19",Apple,,,,,Intel Core i5,2.3 GHz,,512 GB,8 GB DDR3,,,"13.3"""
+2017 Apple 13.3 MacBook Pro 2.3GHz 128GB (Silver) with Adapter Cord bundle and 7 port USB Hub Essentials Bundle,"1,235.48",Apple,,,,,Intel Core i5,2.3 GHz,,128 GB,8 GB DDR3,,,"13.3"""
+"2017 Apple 13.3 MacBook Pro 2.3GHz 128GB (Silver) with Case, USB C Adapter Cord and 7 port USB Hub Deluxe Case Bundle","1,215.96",Apple,,,,,Intel Core i5,2.3 GHz,,128 GB,8 GB DDR3,,,"13.3"""
+2017 Apple 13.3 MacBook Pro 2.3GHz 128GB (Space Gray) with Adapter Cord bundle and 7 port USB Hub Essentials Bundle,"1,267.64",Apple,,,,,Intel Core i5,2.3 GHz,,128 GB,8 GB DDR3,,,"13.3"""
+"Apple MacBook Pro MJLQ2LL/A 15.4"" Laptop with Retina Display 2.2 GHz 16GB 256GB","2,199.95",Apple,MacBook Pro,,,Mac OS X v10.10 Yosemite,Intel Core i7,2.20 GHz,,256 GB,16 GB,,,"15.4"""
+"2017 Apple 13.3 MacBook Pro 2.3GHz 128GB (Silver) with Magic Mouse 2, Adapter Cord bundle, and Case Deluxe Mouse Bundle","1,296.25",Apple,,,,,Intel Core i5,2.3 GHz,,128 GB,8 GB DDR3,,,"13.3"""
+"2018 Apple 13.3 MacBook Pro with Touch Bar 2.3GHz 512GB (Silver) with Magic Mouse 2, Adapter Cord bundle, and Case Deluxe Mouse Bundle","1,830.93",Apple,,,,,Intel Core i5,2.3 GHz,,512 GB,8 GB DDR3,,,"13.3"""
+2018 Apple 13.3 MacBook Pro with Touch Bar 2.3GHz 512GB (Space Gray) with Adapter Cord bundle and 7 port USB Hub Essentials Bundle,"1,663.28",Apple,,,,,Intel Core i5,2.3 GHz,,512 GB,8 GB DDR3,,,"13.3"""
+"2017 Apple 13.3 MacBook Pro 2.3GHz 128GB (Space Gray) with Magic Mouse 2, Adapter Cord bundle, and Case Deluxe Mouse Bundle","1,328.47",Apple,,,,,Intel Core i5,2.3 GHz,,128 GB,8 GB DDR3,,,"13.3"""
+"2017 Apple 13.3 MacBook Pro 2.3GHz 128GB (Space Gray) with Airpods 2 Wireless Charging Case, Adapter Cord bundle, and Case Siri Bundle","1,435.28",Apple,,,,,Intel Core i5,2.3 GHz,,128 GB,8 GB DDR3,,,"13.3"""
+"2018 Apple 13.3 MacBook Pro with Touch Bar 2.3GHz 512GB (Silver) with Sony WH-1000XM3 Headphones (Silver), Adapter Cord bundle, and Case Music Bundle","2,028.87",Apple,,,,,Intel Core i5,2.3 GHz,,512 GB,8 GB DDR3,,,"13.3"""
+"2018 Apple 13.3 MacBook Pro with Touch Bar 2.3GHz 512GB (Silver) with Case, USB C Adapter Cord and 7 port USB Hub Deluxe Case Bundle","1,750.72",Apple,,,,,Intel Core i5,2.3 GHz,,512 GB,8 GB DDR3,,,"13.3"""
+Refurbished: Apple A Grade Macbook Pro 15.4-inch (Retina DG) 2.3Ghz Quad Core i7 (Late 2013) ME294LL/A 128 GB SSD 16 GB Memory 2880x1800 Display macOS Sierra Power Adapter Included,856.00,Apple,MacBook Pro,,,Mac OS X v10.12 Sierra,Intel Core i7,2.3 GHz,Quad-core Processor,128 GB,16 GB,,,"15.4"""
+"2018 Apple 13.3 MacBook Pro with Touch Bar 2.3GHz 512GB (Space Gray) with Airpods 2 Wireless Charging Case, Adapter Cord bundle, and Case Siri Bundle","1,830.93",Apple,,,,,Intel Core i5,2.3 GHz,,512 GB,8 GB DDR3,,,"13.3"""
+"2017 Apple 13.3 MacBook Pro 2.3GHz 128GB (Silver) with Airpods 2 Wireless Charging Case, Adapter Cord bundle, and Case Siri Bundle","1,403.12",Apple,,,,,Intel Core i5,2.3 GHz,,128 GB,8 GB DDR3,,,"13.3"""
+"2017 Apple 13.3 MacBook Pro 2.3GHz 128GB (Space Gray) with Case, USB C Adapter Cord and 7 port USB Hub Deluxe Case Bundle","1,248.12",Apple,,,,,Intel Core i5,2.3 GHz,,128 GB,8 GB DDR3,,,"13.3"""
+"2018 Apple 13.3 MacBook Pro with Touch Bar 2.3GHz 512GB (Space Gray) with Sony WH-1000XM3 Headphones (Silver), Adapter Cord bundle, and Case Music Bundle","1,922.05",Apple,,,,,Intel Core i5,2.3 GHz,,512 GB,8 GB DDR3,,,"13.3"""
+"2017 MacBook Air 13-inch: 1.8GHz dual-core Intel Core i5, 256GB with Adapter Cord bundle and 7 port USB Hub Essentials Bundle","1,107.47",,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"2017 Apple 13.3 MacBook Pro 2.3GHz 128GB (Space Gray) with Sony WH-1000XM3 Headphones (Silver), Adapter Cord bundle, and Case Music Bundle","1,526.49",Apple,,,,,Intel Core i5,2.3 GHz,,128 GB,8 GB DDR3,,,"13.3"""
+"2018 Apple 13.3 MacBook Pro with Touch Bar 2.3GHz 512GB (Space Gray) with Case, USB C Adapter Cord and 7 port USB Hub Deluxe Case Bundle","1,643.76",Apple,,,,,Intel Core i5,2.3 GHz,,512 GB,8 GB DDR3,,,"13.3"""
+"2018 Apple 13.3 MacBook Pro with Touch Bar 2.3GHz 512GB (Silver) with Airpods 2 Wireless Charging Case, Adapter Cord bundle, and Case Siri Bundle","1,937.88",Apple,,,,,Intel Core i5,2.3 GHz,,512 GB,8 GB DDR3,,,"13.3"""
+"Apple 13.3"" MacBook Air with Retina Display (Late 2018, Silver) MREA2LL/A (Spanish Keyboard)",932.00,Apple,,,,,,,,,8 GB,,,"13.3"""
+"2017 MacBook Air 13-inch: 1.8GHz dual-core Intel Core i5, 256GB with Magic Mouse 2, Adapter Cord bundle, and Clear Case Mobile Bundle","1,189.81",,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"Apple MacBook MF855LL/A 12-Inch Laptop with Retina Display (Silver, 256 GB)","2,950.00",Apple,MacBook,MF855LL/A,,Mac OS X v10.10 Yosemite,Intel Core i5,1.10 GHz,,256 GB,8 GB,,,"12.0"""
+"2017 MacBook Air 13-inch: 1.8GHz dual-core Intel Core i5, 256GB with Airpods 2 Wireless Charging Case, Adapter Cord bundle, and Clear Case Siri Bundle","1,296.76",,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"2017 MacBook Air 13-inch: 1.8GHz dual-core Intel Core i5, 256GB with Sony WH-1000XM3 Headphones (Silver), Adapter Cord bundle, and Clear Case Music Bundle","1,387.83",,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"Apple MacBook Pro 15.4"" Retina with Touch Bar - Intel Core i7 2.70 GHz Quad, 16 GB Memory, 512 GB SSD, AMD Radeon Pro 455, 2880x1800 (220 ppi, 500 nits), Mac OS X v10.12 Sierra - A1707 MLH42LL/A","3,450.00",Apple,MacBook Pro With Touch Bar,MLH42LL/A,,Mac OS X v10.12 Sierra,Intel Core i7 6th Gen,2.70 GHz,Quad-core Processor,512 GB SSD,16 GB,AMD Radeon Pro 455,2 GB,"15.4"""
+"Apple MacBook MJY42LL/A Intel Core M-5Y51 X2 1.1GHz 8GB 512GB 12"" MacOSX, Space Gray","1,795.00",Apple,MacBook,MJY42LL/A,,Mac OS X v10.9 Mavericks,Intel Core M,1.10 GHz,Dual-core Processor,512 GB,8 GB,Intel HD Graphics 5300,Shared system memory,"12.0"""
+"Refurbished: Apple Grade B Laptop MacBook Air A1466 Intel Core i7 3667U (2.00 GHz) 8 GB Memory 256 GB SSD Intel HD Graphics 4000 13.3"" Mac OS X v10.10 Yosemite",775.00,Apple,MacBook Air,A1466,3,Mac OS X v10.10 Yosemite,Intel Core i7,3667U (2.00 GHz),,256 GB SSD,8 GB,Intel HD Graphics 4000,Shared system memory,"13.3"""
+"2018 MacBook Air 13-inch: 1.6GHz dual-core Intel Core i5, 256GB (Gold) with Adapter Cord bundle and 7 port USB Hub Essentials Bundle","1,208.95",,MacBook Air,MREF2LL/A,,,Intel Core i5,1.60 GHz,,,8 GB,,,"13.3"""
+"2018 MacBook Air 13-inch: 1.6GHz dual-core Intel Core i5, 256GB (Gold) with Magic Mouse 2, Adapter Cord bundle, and Clear Case Mobile Bundle","1,291.20",,MacBook Air,MREF2LL/A,,,Intel Core i5,1.60 GHz,,,8 GB,,,"13.3"""
+"2018 MacBook Air 13-inch: 1.6GHz dual-core Intel Core i5, 256GB (Gold) with Airpods 2 Wireless Charging Case, Adapter Cord bundle, and Clear Case Siri Bundle","1,398.15",,MacBook Air,MREF2LL/A,,,Intel Core i5,1.60 GHz,,,8 GB,,,"13.3"""
+"2017 MacBook Air 13-inch: 1.8GHz dual-core Intel Core i5, 128GB with Magic Mouse 2, Adapter Cord bundle, and Clear Case Mobile Bundle",863.47,,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air 128GB SSD #MQD32LL/A + Padded Case For Macbook + Fibercloth Bundle",739.43,,,,,,,,,,,,,"13.3"""
+"Late 2016 15"" MacBook Pro ""Retina"" 2.9GHz i7/16GB/512GB/AMD Radeon 450/Touchbar/Silver MLH42LL/A-CTO","3,750.00",Apple,"15"" MacBook Pro",Late 2016,,macOS,,,,512GB PCIe Based Flash Storage,16GB onboard 2133MHz LPDDR3 SDRAM,,2GB,"15.4"""
+"2018 MacBook Air 13-inch: 1.6GHz dual-core Intel Core i5, 256GB (Gold) with Sony WH-1000XM3 Headphones (Silver), Adapter Cord bundle, and Clear Case Music Bundle","1,489.13",,MacBook Air,MREF2LL/A,,,Intel Core i5,1.60 GHz,,,8 GB,,,"13.3"""
+"2017 MacBook Air 13-inch: 1.8GHz dual-core Intel Core i5, 128GB with Airpods 2 Wireless Charging Case, Adapter Cord bundle, and Clear Case Siri Bundle",970.34,,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"2019 MacBook Air 13-inch: 1.6GHz dual-core Intel Core i5, 128GB (Gold) with Adapter Cord bundle and 7 port USB Hub Essentials Bundle","1,059.22",,,,,,,1.60 GHz,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2019, Silver) MV992LL/A With Cleaning Kit and Soft Case - Base Bundle","1,719.98",,MacBook Pro,,,,Intel Core i5,2.40 GHz,,,8 GB,Intel Iris Graphics,,"13.3"""
+"2019 MacBook Air 13-inch: 1.6GHz dual-core Intel Core i5, 256GB (Silver) with Adapter Cord bundle and 7 port USB Hub Essentials Bundle","1,315.90",,,,,,,1.60 GHz,,,8 GB,,,"13.3"""
+"2017 MacBook Air 13-inch: 1.8GHz dual-core Intel Core i5, 128GB with Adapter Cord bundle and 7 port USB Hub Essentials Bundle",781.19,,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"2017 MacBook Air 13-inch: 1.8GHz dual-core Intel Core i5, 128GB with Sony WH-1000XM3 Headphones (Silver), Adapter Cord bundle, and Clear Case Music Bundle","1,061.47",,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"Apple 15.4"" MacBook Pro with Touch Bar (Mid 2019, Silver) MV922LL/A With Cleaning Kit and Soft Case - Base Bundle","2,221.48",,MacBook Pro,,,,Intel Core i7,2.60 GHz,,,16 GB,AMD Radeon Pro 555,,"15.4"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2019, Silver) With Cleaning Kit and Soft Case - Base Bundle","1,901.80",,MacBook Pro,,,,Intel Core i5,2.40 GHz,,,8 GB,Intel Iris Graphics,,"13.3"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2019, Space Gray) MV962LL/A With Cleaning Kit and Soft Case - Base Bundle","1,719.98",,MacBook Pro,,,,Intel Core i5,2.40 GHz,,,8 GB,Intel Iris Graphics,,"13.3"""
+"2019 MacBook Air 13-inch: 1.6GHz dual-core Intel Core i5, 128GB (Space Gray) with Adapter Cord bundle and 7 port USB Hub Essentials Bundle","1,059.22",,,,,,,1.60 GHz,,,8 GB,,,"13.3"""
+"Apple 12"" MacBook (Mid 2017, Gold) MNYL2LL/A + Padded Case For Macbook + 7 Port USB Hub (White) Bundle","1,510.52",,,,,,,,,,,,,
+"Apple 12"" MacBook (Mid 2017, Silver) (MNYJ2LL/A) + Padded Case For Macbook + 7 Port USB Hub (White) Bundle","1,473.09",,,,,,,,,,,,,
+"Apple 15.4"" MacBook Pro with Touch Bar (Mid 2019, Silver) MV932LL/A With Cleaning Kit, Soft Case, Corel Software, Ear Pods, Magic Mouse - Starter","2,667.50",,MacBook Pro,,,,,2.3 GHz,,,16 GB,AMD Radeon Pro 560,,"15.4"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2019, Silver) With Cleaning Kit, Soft Case, Corel Software, Ear Pods, Magic Mouse - Starter","2,000.35",,MacBook Pro,,,,Intel Core i5,2.40 GHz,,,8 GB,Intel Iris Graphics,,"13.3"""
+"Apple 15.4"" MacBook Pro with Touch Bar (Mid 2019, Space Gray) (MV902LL/A) With Cleaning Kit, Soft Case, Corel Software, Ear Pods, Magic Mouse - Starter","2,341.81",,MacBook Pro,,,,Intel Core i7,2.60 GHz,,,16 GB,AMD Radeon Pro 555,,"15.4"""
+"2019 MacBook Air 13-inch: 1.6GHz dual-core Intel Core i5, 128GB (Silver) with Adapter Cord bundle and 7 port USB Hub Essentials Bundle","1,059.22",,,,,,,1.60 GHz,,,8 GB,,,"13.3"""
+"2019 MacBook Air 13-inch: 1.6GHz dual-core Intel Core i5, 256GB (Gold) with Adapter Cord bundle and 7 port USB Hub Essentials Bundle","1,315.86",,,,,,,1.60 GHz,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2019, Silver) MV992LL/A With Cleaning Kit, Soft Case, Corel Software, Air Pods, Magic Mouse, Magic TrackPad, USB-C toUSB Adapter - Magic Bundle","2,090.47",,MacBook Pro,,,,Intel Core i5,2.40 GHz,,,8 GB,Intel Iris Graphics,,"13.3"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2019, Space Gray) MV962LL/A With Cleaning Kit, Soft Case, Corel Software, Air Pods, Magic Mouse, Magic TrackPad, USB-C toUSB Adapter - Magic Bundle","2,133.79",,MacBook Pro,,,,Intel Core i5,2.40 GHz,,,8 GB,Intel Iris Graphics,,"13.3"""
+"Apple 15.4"" MacBook Pro with Touch Bar (Mid 2019, Space Gray) (MV902LL/A) With Cleaning Kit, Soft Case, Corel Software, Air Pods, Magic Mouse, Magic TrackPad, USB-C toUSB Adapter - Magic Bundle","2,645.82",,MacBook Pro,,,,Intel Core i7,2.60 GHz,,,16 GB,AMD Radeon Pro 555,,"15.4"""
+"Apple 13.3"" MacBook Air 256GB SSD MQD42LL/A + MicroFiber Cloth + 2.4 GHz Slim Optical Wireless Bluetooth + Padded Case For Macbook Bundle","1,081.38",,,,,,,,,,,,,"13.3"""
+"Apple 15.4"" MacBook Pro with Touch Bar (Mid 2019, Silver) MV932LL/A With Cleaning Kit, Soft Case, Corel Software, Air Pods, Magic Mouse, Magic TrackPad, USB-C toUSB Adapter - Magic Bundle","2,939.42",,MacBook Pro,,,,,2.3 GHz,,,16 GB,AMD Radeon Pro 560,,"15.4"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) + Padded Case For Macbook + 2.4 GHz Slim Optical Wireless Bluetooth + 7 Port USB Hub (White) Bundle","1,285.97",Apple,,,,,,,,,,,,"13.3"""
+"Apple 12"" MacBook (Mid 2017, Gold) (MNYL2LL/A) + Padded Case For Macbook + 7 Port USB Hub (White) Bundle","1,483.79",,,,,,,,,,,,,
+"Apple 15.4"" MacBook Pro with Touch Bar (Mid 2019, Silver) MV922LL/A With Cleaning Kit, Soft Case, Corel Software, Air Pods, Magic Mouse, Magic TrackPad, USB-C toUSB Adapter - Magic Bundle","2,592.25",,MacBook Pro,,,,Intel Core i7,2.60 GHz,,,16 GB,AMD Radeon Pro 555,,"15.4"""
+"Apple 13.3"" MacBook Pro with Touch Bar (Mid 2019, Space Gray) With Cleaning Kit, Soft Case, Corel Software, Air Pods, Magic Mouse, Magic TrackPad, USB-C toUSB Adapter - Magic Bundle","2,326.44",,MacBook Pro,,,,Intel Core i5,2.40 GHz,,,8 GB,Intel Iris Graphics,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Space Gray)MPXQ2LL/A + MicroFiber Cloth + 2.4 GHz Slim Optical Wireless Bluetooth + Padded Case For Macbook Bundle","1,317.36",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver)MPXR2LL/A + MicroFiber Cloth + 2.4 GHz Slim Optical Wireless Bluetooth + Padded Case For Macbook Bundle","1,285.20",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD (MQD42LL/A) + MicroFiber Cloth + 2.4 GHz Slim Optical Wireless Bluetooth + Padded Case For Macbook Bundle","1,153.30",,,,,,,,,,,,,
+"Apple 12"" MacBook (Mid 2017, Silver) (MNYJ2LL/A) + Padded Case For Macbook + iHip IP-IV-WH Fiber Cord Headphone with In-Line Microphone Bundle","1,424.43",,,,,,,,,,,,,
+"Apple 12"" MacBook (Mid 2017, Gold) (MNYL2LL/A) + Padded Case For Macbook + iHip IP-IV-WH Fiber Cord Headphone with In-Line Microphone Bundle","1,435.12",,,,,,,,,,,,,
+"Apple 12"" MacBook (Mid 2017, Silver) MNYJ2LL/A + Padded Case For Macbook + 7 Port USB Hub (White) Bundle","1,499.83",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Pro (Mid 2017, Space Gray) (MPXQ2LL/A) + Padded Case For Macbook + 2.4 GHz Slim Optical Wireless Bluetooth + iHip IP-IV-WH Fiber Cord Headphone with In-Line Microphone Bundle","1,269.47",Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) + Padded Case For Macbook + 2.4 GHz Slim Optical Wireless Bluetooth + 7 Port USB Hub Bundle","1,312.71",Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Space Gray)(MPXQ2LL/A) + Padded Case For Macbook + 2.4 GHz Slim Optical Wireless Bluetooth + iHip IP-IV-WH Fiber Cord Headphone with In-Line Microphone Bundle","1,323.48",Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) (MPXR2LL/A) + MicroFiber Cloth + 2.4 GHz Slim Optical Wireless Bluetooth + Padded Case For Macbook Bundle","1,199.64",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Pro (Mid 2017, Space Gray)(MPXQ2LL/A) + Padded Case For Macbook + 2.4 GHz Slim Optical Wireless Bluetooth + 7 Port USB Hub (White) Bundle","1,344.87",Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air 128GB SSD (MQD32LL/A) + MicroFiber Cloth + 2.4 GHz Slim Optical Wireless Bluetooth + Padded Case For Macbook Bundle",827.03,,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) MPXR2LL/A + MicroFiber Cloth + 2.4 GHz Slim Optical Wireless Bluetooth + Padded Case For Macbook Bundle","1,215.41",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD MQD32LL/A + MicroFiber Cloth + 2.4 GHz Slim Optical Wireless Bluetooth + Padded Case For Macbook Bundle",755.10,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Pro (Mid 2017, Space Gray) (MPXQ2LL/A) + Padded Case For Macbook + 2.4 GHz Slim Optical Wireless Bluetooth + 7 Port USB Hub (White) Bundle","1,318.13",Apple,,,,,,,,,,,,"13.3"""
+"Apple 12"" MacBook (Mid 2017, Silver) MNYJ2LL/A + Padded Case For Macbook + iHip IP-IV-WH Fiber Cord Headphone with In-Line Microphone Bundle","1,478.44",,,,,,,,,,,,,
+"Apple 12"" MacBook (Mid 2017, Gold) MNYL2LL/A + Padded Case For Macbook + iHip IP-IV-WH Fiber Cord Headphone with In-Line Microphone Bundle","1,489.13",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD #MQD32LL/A (Newest Version) With 2 Year Extended Warranty Frosted Clear Bundle",763.04,,,,,,,,,,,,,
+"13 Inch MacBook Air w/ Retina Display 256GB SSD (Late 2018, Gold) MREF2LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, USB 3.0 3-In-1 Hub, and Cleaning Kit","1,187.18",,,,,,,1.60 GHz,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air 128GB SSD #MQD32LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Turquoise) + Apple USB SuperDrive Bundle",862.52,,,,,,,,,,,,,
+"13 Inch MacBook Air w/ Retina Display 256GB SSD (Late 2018, Gold) MREF2LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, 2-Year Warranty, and Cleaning Kit","1,197.35",,,,,,,1.60 GHz,,,8 GB,,,"13.3"""
+"13 Inch MacBook Air 128GB SSD Intel Core i5 (Mid 2017, Silver) MQD32LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, Fitted Case, 2-Year Warranty, and Cleaning Kit",767.18,,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"13 Inch MacBook Air 128GB SSD Intel Core i5 (Mid 2017, Silver) MQD32LL/A Laptop Computer Best Value Bundle Includes Wireless Mouse, USB Flash Drive, and Cleaning Kit",745.52,,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"13 Inch MacBook Air 256GB SSD Intel Core i5 (Mid 2017, Silver) MQD42LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, 2-Year Warranty, and AirPods (1st Gen)","1,232.76",,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air 128GB SSD #MQD32LL/A (Newest Version) With 2 Year Extended Warranty Blue Bundle",766.20,,,,,,,,,,,,,"13.3"""
+"13 Inch MacBook Air 128GB SSD Intel Core i5 (Mid 2017, Silver) MQD32LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, Fitted Case, USB 3.0 3-In-1 Hub, and Cleaning Kit",764.50,,,,,,,,,,,,,
+"13 Inch MacBook Air 128GB SSD Intel Core i5 (Mid 2017, Silver) MQD32LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, 2-Year Warranty, and Cleaning Kit",762.10,,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air 128GB SSD (MQD32LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Turquoise) + Apple USB SuperDrive Bundle",926.96,,,,,,,,,,,,,
+"13 Inch MacBook Air 128GB SSD Intel Core i5 (Mid 2017, Silver) MQD32LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, 2-Year Warranty, and AirPods (1st Gen)",906.56,,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air 256GB SSD MQD42LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Turquoise) + Apple USB SuperDrive Bundle","1,204.66",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD MQD32LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Clear) + Apple USB SuperDrive Bundle",875.06,,,,,,,,,,,,,
+"13 Inch MacBook Air 128GB SSD Intel Core i5 (Mid 2017, Silver) MQD32LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, AirPods (1st Gen), and Cleaning Kit",889.98,,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"13 Inch MacBook Air 256GB SSD Intel Core i5 (Mid 2017, Silver) MQD42LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, Fitted Case, AirPods (1st Gen), and Cleaning Kit","1,221.40",,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"13 Inch MacBook Air 128GB SSD Intel Core i5 (Mid 2017, Silver) MQD32LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, Fitted Case, AirPods (1st Gen), and Cleaning Kit",895.06,,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"13 Inch MacBook Air 256GB SSD Intel Core i5 (Mid 2017, Silver) MQD42LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, Fitted Case, 2-Year Warranty, and Cleaning Kit","1,093.45",,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air 256GB SSD MQD42LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Clear) + Apple USB SuperDrive Bundle","1,201.42",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 128GB SSD (MQD32LL/A) + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Red) + Apple USB SuperDrive Bundle",926.99,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD MQD42LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Blue) + Apple USB SuperDrive Bundle","1,204.66",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD MQD42LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Black) + Apple USB SuperDrive Bundle","1,204.82",,,,,,,,,,,,,
+"13 Inch MacBook Air 256GB SSD Intel Core i5 (Mid 2017, Silver) MQD42LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, AirPods (1st Gen), and Cleaning Kit","1,216.18",,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air 256GB SSD MQD42LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Blue) + 3 Foot Lightning USB Cable (1 Meter) Bundle","1,135.86",,,,,,,,,,,,,
+"13 Inch MacBook Air 256GB SSD Intel Core i5 (Mid 2017, Silver) MQD42LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, Fitted Case, 2-Year Warranty, and AirPods (1st Gen)","1,237.98",,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+13-inch MacBook Pro with Touch Bar: dual-core i5 512GB - Silver + Ethernet Bundle + Maintanence Kit,"2,034.17",Apple,,,,,,2.3 GHz,,,,,,"13.3"""
+"13 Inch MacBook Air w/ Retina Display 256GB SSD (Late 2018, Gold) MREF2LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, 2-Year Warranty, and AirPods (1st Gen)","1,341.78",,,,,,,1.60 GHz,,,8 GB,,,"13.3"""
+"13 Inch MacBook Air w/ Retina Display 256GB SSD (Late 2018, Gold) MREF2LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, Fitted Case, 2-Year Warranty, and AirPods (1st Gen)","1,346.86",,,,,,,1.60 GHz,,,8 GB,,,"13.3"""
+"13 Inch MacBook Air 256GB SSD Intel Core i5 (Mid 2017, Silver) MQD42LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, Fitted Case, USB 3.0 3-In-1 Hub, and Cleaning Kit","1,090.78",,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"13 Inch MacBook Air 128GB SSD Intel Core i5 (Mid 2017, Silver) MQD32LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, Fitted Case, 2-Year Warranty, and AirPods (1st Gen)",911.64,,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"13 Inch MacBook Air 256GB SSD Intel Core i5 (Mid 2017, Silver) MQD42LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, USB 3.0 3-In-1 Hub, and Cleaning Kit","1,085.69",,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"13 Inch MacBook Air w/ Retina Display 256GB SSD (Late 2018, Gold) MREF2LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, Fitted Case, 2-Year Warranty, and Cleaning Kit","1,202.43",,,,,,,1.60 GHz,,,8 GB,,,"13.3"""
+"13 Inch MacBook Air 128GB SSD Intel Core i5 (Mid 2017, Silver) MQD32LL/A Laptop Computer Bundle Includes Wireless Mouse, USB Flash Drive, USB 3.0 3-In-1 Hub, and Cleaning Kit",759.41,,,,,,,1.80 GHz,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air 256GB SSD MQD42LL/A + iBenzer Basic Soft-Touch Series Plastic Hard Case & Keyboard Cover for Apple Macbook Air 13-inch 13"" (Red) + 3 Foot Lightning USB Cable (1 Meter) Bundle","1,136.04",,,,,,,,,,,,,
+13-inch MacBook Pro with Touch Bar: dual-core i5 512GB - Silver + Maintanence Kit,"2,008.78",Apple,,,,,,2.3 GHz,,,,,,"13.3"""
+13-inch MacBook Pro with Touch Bar: dual-core i5 512GB - Silver + Magic-Mouse 2 + Maintanence Kit,"2,089.04",Apple,,,,,,2.3 GHz,,,,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2018) Silver with Padded Case and Accessories","1,409.61",,MacBook Pro,MR9U2LL/A,,,Intel Core i5,2.3 GHz,Quad-core Processor,256 GB,8 GB,,,"13.3"""
+13-inch MacBook Pro with Touch Bar: dual-core i5 512GB - Silver + USB Bundle + Maintanence Kit,"2,028.33",Apple,,,,,,2.3 GHz,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air 256GB SSD #MQD42LL/A (Newest Version 2017 Model) Starter Bundle","1,066.28",,,,,,,,,,,,,
+13-inch MacBook Pro with Touch Bar: dual-core i5 512GB - Silver + Ultimate Cord Bundle + Maintanence Kit,"2,060.62",Apple,,,,,,2.3 GHz,,,,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2018, Space Gray) (Spanish Keyboard)","1,723.49",Apple,,,,,,2.3 GHz,,,,,,"13.3"""
+"Apple MacBook Pro MV9A2E/A 13.3"" Notebook - 2560 x 1600 - Core i5 - 8 GB RAM - 512 GB SSD - Silver","1,995.99",Apple,MacBook Pro,,,macOS Mojave,,2.40 GHz,,512 GB,8 GB,Iris Plus Graphics 655,8 GB,"13.3"""
+"Apple 13.4"" MacBook Pro Laptop (MR9V2LL/A) (Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 512GB SSD) Silver with Padded Case, Corel Software and Magic Mouse - Professional Bundle","1,957.93",Apple,,,,,,,,,,,,"13.3"""
+13-inch MacBook Pro with Touch Bar: dual-core i5 512GB - Silver + Assorted Light Cord Bundle + Maintanence Kit,"2,072.36",,,,,,,,,,,,,
+"Apple 13.4"" MacBook Pro Laptop (MR9V2LL/A) (Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 512GB SSD Storage) Silver with Padded Case and Mouse - Starter Bundle","1,739.14",Apple,,,,,,,,,,,,"13.3"""
+"Apple MacBook Pro MV972E/A 13.3"" Notebook - 2560 x 1600 - Core i5 - 8 GB RAM - 512 GB SSD - Space Gray","1,995.99",Apple,MacBook Pro,,,macOS Mojave,,2.40 GHz,,512 GB,8 GB,Iris Plus Graphics 655,8 GB,"13.3"""
+"Apple 13.4"" MacBook Pro Laptop (MR9V2LL/A) (Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 512GB SSD Storage) Silver with Padded Case and Magic Mouse - Home Office Bundle","1,949.37",Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.4"" MacBook Pro Laptop (MR9V2LL/A) (Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 512GB SSD) Silver with Padded Case, Magic Mouse, Air Pods. - Magic Mouse and Airpods Bundle","2,084.29",Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air 128GB SSD #MQD32LL/A (Newest Version 2017 Model) Blue Bundle",749.63,,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air 128GB SSD #MQD32LL/A (Newest Version 2017 Model) Black Bundle",749.86,,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air 128GB SSD #MQD32LL/A (Newest Version 2017 Model) Starter Bundle",740.00,,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air 256GB SSD #MQD42LL/A + White Wired Earbuds Headphones + Padded Case For Macbook + Fibercloth Bundle","1,067.44",,,,,,,,,,,,,"13.3"""
+"Apple 12.0"" MacBook (Early 2016 Silver) #MLHC2LL/A + Padded Case For Macbook + Fibercloth Bundle","1,343.65",,,,,,,,,,,,,"12.0"""
+"Apple 12"" MacBook 512GB (Early 2016 Gold) #MLHF2LL/A + White Wired Earbuds Headphones + Padded Case For Macbook + Fibercloth Bundle","1,329.34",,,,,,,,,,,,,"12.0"""
+"Apple 12"" MacBook (Early 2016 Silver) #MLHC2LL/A + White Wired Earbuds Headphones + Padded Case For Macbook + Fibercloth Bundle","1,345.38",,,,,,,,,,,,,"12.0"""
+"Apple 12.0"" MacBook 512GB (Early 2016 Gold) #MLHF2LL/A + Padded Case For Macbook + Fibercloth Bundle","1,327.60",,,,,,,,,,,,,"12.0"""
+"Apple 15.4"" MacBook Pro Laptop Computer with Retina Display & Force Touch Trackpad #MJLQ2LL/A + Padded Case For Macbook + Fibercloth Bundle","3,224.95",,,,,,,,,,,,,"15.4"""
+"Apple 13.3"" MacBook Air 256GB SSD #MQD42LL/A + Padded Case For Macbook + Fibercloth Bundle","1,065.71",,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air 128GB SSD #MQD32LL/A + White Wired Earbuds Headphones + Padded Case For Macbook + Fibercloth + Ultra-Slim 2.4 GHz Optical Wireless Mouse with USB Nano Receiver (White) Bundle",746.81,,,,,,,,,,,,,"13.3"""
+"Apple 15.4"" MacBook Pro Laptop Computer with Retina Display & Force Touch Trackpad #MJLQ2LL/A + White Wired Earbuds Headphones + Padded Case For Macbook + Fibercloth Bundle","3,226.67",,,,,,,,,,,,,"15.4"""
+"Apple MacBook Air 11.6"" A1465/A1466  MD760LL/A  Mid 2013 128 GB SSD Card 661-7456",119.28,,,,,,,,,,,,,
+"Apple Macbook Pro 15"" A1286  Motherboard Core i7 2.0Ghz  21PWIMB01A0 21PWIMB0140",392.85,,,,,,,,,,,,,
+4GB SODIMM Apple MacBook Pro 2.7GHz Intel Core i7 - 13-inchEarly-2011 Ram Memory,31.47,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Pro 2018 - Silver - 2.3 Ghz CPU - 8 GB RAM - 512 GB SSD Accessory Kit","1,734.46",,,,,,,,Quad-core Processor,512 GB,8 GB,,,"13.3"""
+4GB SODIMM Apple MacBook Pro 2.5GHz Intel Core i5 - 13-inchMid-2012 Ram Memory,29.97,,,,,,,,,,,,,
+4GB SODIMM Apple MacBook Pro 2.7GHz Intel Core i7 - 15-inchMid-2012 Ram Memory,29.97,,,,,,,,,,,,,
+"Apple 13.3"" MacBook Air 256GB SSD #MQD42LL/A + White Wired Earbuds Headphones + Padded Case For Macbook + Fibercloth + Ultra-Slim 2.4 GHz Optical Wireless Mouse with USB Nano Receiver (White) Bundle","1,073.09",,,,,,,,,,,,,"13.3"""
+"Apple MacBook Pro 15"" A1398  Retina   655-1795A 512GB SSD  661-7286",207.90,,,,,,,,,,,,,
+"Apple Laptop MacBook Air MJVE2LL/A Intel Core i5 1.60 GHz 4 GB Memory 128 GB SSD Intel HD Graphics 5500 13.3"" Mac OS X v10.10 Yosemite",924.99,Apple,MacBook Air,MJVE2LL/A,,Mac OS X v10.10 Yosemite,Intel Core i5,1.60 GHz,Dual-core Processor,128 GB,4 GB,Intel HD Graphics 5500,Shared system memory,"13.3"""
+"Apple MacBook Air Mid 2012  11"" A1465  MD845LL/A  SSD  64GB Flash 661-6618",85.20,,,,,,,,,,,,,
+4GB SODIMM Apple MacBook Pro 2.9GHz Intel Core i7 - 13-inchMid-2012 Ram Memory,29.97,,,,,,,,,,,,,
+"Apple Macbook Air 11""  Early 2015 A1465  1.6GHz MJVM2LL/A  Logic Board 661-02346",321.30,,,,,,,,,,,,,
+"Apple Macbook Air 11""  Early 2015 A1465  1.6GHz MJVM2LL/A  Logic Board 661-02346",321.30,,,,,,,,,,,,,
+"Apple Macbook Pro 13"" Mid 2012 MD101LL/A MD102LL/A  A1278 Logic Board 661-6589",372.60,,,,,,,,,,,,,
+"Apple MacBook Air Mid 2012  11"" A1465  MD845LL/A  SSD  64GB Flash 661-6618",85.20,,,,,,,,,,,,,
+Apple Macbook Air A1369  Samsung  SSD A1370 256GB  THNSNC064GMDJ 655-1665C,110.76,,,,,,,,,,,,,
+"Apple MacBook Air 11"" A1370 Mid 2011   SSD  256GB MC968LL/A  Hard Drive 661-5684",110.76,,,,,,,,,,,,,
+"Apple MacBook Air 11.6"" A1465  Mid 2013 13"" 128GB SSD Card A1466    661-7456",119.28,,,,,,,,,,,,,
+"Apple MacBook Air Early 2014 11.6"" A1465 13"" A1466 SSD   128GB Card 661-7458",92.30,,,,,,,,,,,,,
+"Apple MacBook Pro 13""  2011  A1278 Logic Board 21PGJMB0110 21PGJMB0150 21PGJMB00N0",319.95,,,,,,,,,,,,,
+"NEW! 2GB Module Works With Apple MacBook Pro 2.4GHz Intel Core 2 Duo 17"" Memory MA897LL/A",17.66,,,,,,,,,,,,,
+Apple MacBook Pro MJLU2LL/A 15.4in 2.8Ghz 16GB SDRAM 1TB Flash Silver,"3,199.95",,,,,,,,,,,,,"15.4"""
+Apple MacBook Pro MJLT2LL/A 15.4in 2.5GHz 16GB 512GB Retina Display,"2,699.95",,,,,,,,,,,,,"15.4"""
+MacBook Pro (SD/FW) EMC  Core 2 Duo 2.26 13 inch 2326 21PGAMB0090 661-5230 A1278,105.99,,,,,,,,,,,,,
+"Apple Laptop MacBook MK4M2LL/A Intel Core M 1.10 GHz 8 GB Memory 256 GB SSD Intel HD Graphics 5300 12.0"" Mac OS X v10.10 Yosemite","2,350.00",Apple,MacBook,MK4M2LL/A,,Mac OS X v10.10 Yosemite,Intel Core M,1.10 GHz,Dual-core Processor,256 GB SSD,8 GB,Intel HD Graphics 5300,Shared system memory,"12.0"""
+"661-5513 Apple MacBook Pro 15"" A1286 Mid 2012 MD103LL/A MD104LL/A SuperDrive",26.98,,,,,,,,,,,,,
+"Apple MacBook Pro with Touch Bar - 15.4"" - Core i7 - 16 GB RAM - 256 GB SSD","2,226.12",,,,,,,,,,,,,"15.4"""
+"Apple MJLU2LL/A MacBook Pro Notebook - Core i7 2.8GHz, 15.4"" Retina, 16GB RAM, 1TB Flash Storage","3,199.95",Apple,MacBook Pro,MJLU2LL/A,,Mac OS X v10.9 Mavericks,Intel Core i7,2.80 GHz,Quad-Core,1T,16 GB,,,"15.4"""
+"Used - Very Good: Apple MacBook Pro 15.4"" Retina Display Intel Core i7 2.5GHz 16GB 512GB MGXC2LL/A",,Apple,MacBook Pro,MGXC2LL/A,,Mac OS X 10.9 Mavericks,,2.50 GHz,,,16 GB,,,"15.4"""
+"Refurbished: Apple MacBook MacBook Air MC965LL/A-R Intel Core i5 1.70 GHz 4 GB Memory 128GB SSD HDD Intel HD Graphics 3000 13.3"" Mac OS X v10.7 Lion",459.95,Apple,MacBook Air,MC965LL/A-R,5,Mac OS X v10.7 Lion,Intel Core i5,1.70 GHz,2,128GB SSD,4 GB,Intel HD Graphics 3000,Shared system memory,"13.3"""
+4GB SODIMM Apple MacBook Pro 2.7GHz Intel Core i7 - 15-inchMid-2012 Ram Memory,29.98,,,,,,,,,,,,,
+8GB SODIMM Apple MacBook Pro 2.7GHz Intel Core i7 - 13-inchEarly-2011 Ram Memory,52.48,,,,,,,,,,,,,
+4GB SODIMM Apple MacBook Pro 2.9GHz Intel Core i7 - 13-inchMid-2012 Ram Memory,29.98,,,,,,,,,,,,,
+"New 2015 Macbook Pro 15-Inch Retina Laptop MJLT2LL/A (i7 2.5GHz, 16GB DDR3 Ram, 1TB SSD, Radeon R9 M370X 2GB, Mojave, HDMI, USB 3.0)","2,699.95",Apple,Macbook Pro,MJLT2LL/A,,Mac OS X v10.14 Mojave,Intel Core i7 4th Gen,,Quad-core Processor,1 TB,16 GB,AMD Radeon R9 M370X,2GB,"15.4"""
+4GB SODIMM Apple MacBook Pro 2.7GHz Intel Core i7 - 13-inchEarly-2011 Ram Memory,29.98,,,,,,,,,,,,,
+4GB SODIMM Apple MacBook Pro 2.5GHz Intel Core i5 - 13-inchMid-2012 Ram Memory,29.98,,,,,,,,,,,,,
+"Apple 13 Inch MacBook Air Laptop Computer (Mid 2017 Version, Silver) 128GB SSD with 1 Year Extended Warranty",742.59,,MacBook Air,MQD32LL/A,,,Intel Core i5,1.80 GHz,,,8 GB,,,"13.3"""
+"Apple 13 Inch MacBook Air Laptop Computer (Mid 2017 Version, Silver) 128GB SSD with Turquoise Soft Touch Hard Case Shell Cover with Keyboard Cover",745.75,,MacBook Air,MQD32LL/A,,,Intel Core i5,1.80 GHz,,,8 GB,,,"13.3"""
+"Apple 13"" MacBook Air With Magic Mouse 2(Wireless, Rechargable)|Intel Core i7|8GB RAM|128GB SSD|Backlit Keyboard|Thunderbolt 2|SDXC card slot|Bluetooth|Webcam|NFC|Mac OS|Silver","1,039.99",Apple,MacBook Air,,,Mac OS X v10.12 Sierra,Intel Core i7,2.20 GHz,,128G SSD,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) Spanish Keyboard","1,456.11",Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air Combo Mouse/Carrying Case (Mid 2017) MQD32LL/A",780.99,,,,1,,,,,,,,,"13.3"""
+"Apple Macbook Pro 15"" A1286 Early 2011 MC721LL/A MC723LL/A MD035LL/A Logic Board",599.99,,,,,,,,,,,,,
+"Apple 13.4"" MacBook Pro Laptop (MR9R2LL/A) (Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 512GB SSD Storage) Space Gray with Padded Case and Mouse - Starter Bundle","1,632.19",Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.4"" MacBook Pro Laptop (MR9R2LL/A) (Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 512GB SSD) Space Gray with Padded Case, Corel Software and Magic Mouse - Professional Bundle","1,851.05",Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.4"" MacBook Pro Laptop (MR9R2LL/A) (Retina, Touch Bar, 2.3GHz Intel Core i5, 8GB RAM, 512GB SSD) Space Gray with Padded Case, Magic Mouse, Air Pods. - Magic Mouse and Airpods Bundle","1,977.41",Apple,,,,,,,,,,,,"13.3"""
+"Apple 12"" MacBook Silver Retina Display 256GB With Case And Mouse","1,052.93",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 12"" MacBook Gold Retina Display 512GB With Case And Mouse","1,336.35",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 12"" MacBook Retina Display 256GB With Case And Mouse","1,352.40",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 12"" MacBook Retina Display 256GB With Case, Corel Software, Accidental Warranty, Magic Mouse 2","1,544.14",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 12"" MacBook Gold Retina Display 512GB With Case, Corel Software, Accidental Warranty, Magic Mouse 2","1,528.10",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 12"" MacBook Gold Retina Display 512GB With Case, Corel Software, Accidental Warranty, Magic Mouse 2 and Air Pods","1,669.10",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 12"" MacBook Retina Display 256GB With Case, Corel Software, Accidental Warranty, Magic Mouse 2 and Air Pods","1,685.14",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) + Magic Mouse 2 (Silver) Combo","1,300.03",,,Apple Macbook Air,,,,,,,,,,"13.3"""
+"Apple 13"" MacBook Pro, Retina Display, 2.3GHz Intel Core i5 Dual Core, 8GB RAM, 128GB SSD, Space Gray, With Case, Corel Software, Magic Mouse, and Extended Warranty","1,346.12",Apple,,,,,,,,,8 GB,,,"13.0"""
+"Apple 13"" MacBook Pro, Retina Display, 2.3GHz Intel Core i5 Dual Core, 8GB RAM, 128GB SSD, Space Gray, With Case And Mouse","1,236.55",Apple,,,,,,,,,8 GB,,,"13.0"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) MPXR2LL/A + MicroFiber Cloth + 7 Port USB Hub (White) + Apple AirPods Wireless Bluetooth Earphones Bundle","1,391.39",Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air with Retina Display 1.6GHz Dual-Core i5 CPU, 8GB RAM, 256GB SSD (Late 2018, Gold)","1,167.94",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.4"" MacBook Pro Laptop Retina, Touch Bar, 2.3GHz Intel Core i5, 8GB RAM, 512GB SSD Space Gray with Padded Case, Magic Mouse, Air Pods.","1,977.41",Apple,,,,,,,,,8 GB,,,"13.4"""
+"Apple 13.4"" MacBook Pro Laptop Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 512GB SSD Silver with Padded Case, Magic Mouse, Air Pods.","2,084.29",Apple,,,,,,,,,8 GB,,,"13.4"""
+"Apple 12"" MacBook Silver Retina, 1.3GHz Intel Core i5 Dual Core Processor, 8GB RAM, 512GB SSD, Mac OS, With Case, Corel Software, Accidental Warranty, Magic Mouse 2","1,581.57",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 12"" MacBook Silver Retina, 1.3GHz Intel Core i5 Dual Core Processor, 8GB RAM, 512GB SSD, With Case, Corel Software, Accidental Warranty, Magic Mouse 2 and Air Pods","1,722.58",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 13.4"" MacBook Pro Laptop Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 512GB SSD Silver with Padded Case, Corel Software and Magic Mouse","1,957.93",Apple,,,,,,,,,8 GB,,,"13.4"""
+"Apple 13.4"" MacBook Pro Laptop Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 256GB SSD Storage Silver with Padded Case and Mouse","1,418.29",Apple,,,,,,,,,8 GB,,,"13.4"""
+"Apple 12"" MacBook Gold Retina, 1.3GHz Intel Core i5 Dual Core Processor, 8GB RAM, 512GB SSD, Mac OS, With Case, Corel Software, Accidental Warranty, Magic Mouse 2","1,592.27",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 12"" MacBook Gold Retina, 1.3GHz Intel Core i5 Dual Core Processor, 8GB RAM, 512GB SSD, Mac OS, With Case And Mouse","1,400.52",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 13.4"" MacBook Pro Laptop Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 512GB SSD Storage Space Gray with Padded Case and Mouse","1,632.19",Apple,,,,,,,,,8 GB,,,"13.4"""
+"Apple 13.4"" MacBook Pro Laptop Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 256GB SSD Silver with Padded Case, Corel Software and Magic Mouse","1,637.07",Apple,,,,,,,,,8 GB,,,"13.4"""
+"Apple 13"" MacBook Pro, Retina Display, 2.3GHz Intel Core i5 Dual Core, 8GB RAM, 128GB SSD, Space Gray, With Case, Corel Software, Magic Mouse, Air Pods and Warranty","1,487.44",Apple,,,,,,,,,8 GB,,,"13.0"""
+"Apple 13"" MacBook Pro, Retina Display, 2.3GHz Intel Core i5 Dual Core, 8GB RAM, 128GB SSD, Silver, With Case, Corel Software, Magic Mouse, Air Pods","1,443.99",Apple,,,,,,,,,8 GB,,,"13.0"""
+"Apple 13.4"" MacBook Pro Laptop Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 256GB SSD Storage Silver with Padded Case and Magic Mouse","1,628.51",Apple,,,,,,,,,8 GB,,,"13.4"""
+"Apple 13"" MacBook Pro, Retina Display, 2.3GHz Intel Core i5 Dual Core, 8GB RAM, 128GB SSD, Silver, With Case, Corel Software, Magic Mouse, Magic Trackpad, Air Pods","1,561.78",Apple,,,,,,,,,8 GB,,,"13.0"""
+"Apple 12"" MacBook Silver Retina, 1.3GHz Intel Core i5 Dual Core Processor, 8GB RAM, 512GB SSD, Mac OS, With Case And Mouse","1,389.83",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 13.3"" MacBook Pro 2018 - Space Gray - 2.3 Ghz CPU - 8 GB RAM - 512 GB SSD Accessory Kit","1,627.55",,,,,,,,Quad-core Processor,512 GB,8 GB,,,"13.3"""
+"Apple 12"" MacBook Gold Retina, 1.3GHz Intel Core i5 Dual Core Processor, 8GB RAM, 512GB SSD, With Case, Corel Software, Accidental Warranty, Magic Mouse 2 and Air Pods","1,733.27",Apple,,,,,,,,,8 GB,,,"12.0"""
+"Apple 13.4"" MacBook Pro Laptop Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 512GB SSD Storage Silver with Padded Case and Mouse","1,739.14",Apple,,,,,,,,,8 GB,,,"13.4"""
+"Apple 13"" MacBook Pro, Retina Display, 2.3GHz Intel Core i5 Dual Core, 8GB RAM, 128GB SSD, Space Gray, With Case, Corel Software, Mouse, Ear buds and Extended Warranty","1,260.32",Apple,,,,,,,,,8 GB,,,"13.0"""
+"Apple 13.4"" MacBook Pro Laptop Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 256GB SSD Silver with Padded Case, Magic Mouse, Air Pods.","1,763.51",Apple,,,,,,,,,8 GB,,,"13.4"""
+"Apple 13.4"" MacBook Pro Laptop Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 512GB SSD Storage Space Gray with Padded Case and Magic Mouse","1,842.49",Apple,,,,,,,,,8 GB,,,"13.4"""
+"Apple 13"" MacBook Pro, Retina Display, 2.3GHz Intel Core i5 Dual Core, 8GB RAM, 128GB SSD, Silver, With Case, Corel Software, Magic Mouse, and Extended Warranty","1,302.80",Apple,,,,,,,,,8 GB,,,"13.0"""
+"Apple 13.3"" MacBook Air (Mid 2017, Silver) Spanish Keyboard",964.25,Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.4"" MacBook Pro Laptop Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 512GB SSD Space Gray with Padded Case, Corel Software and Magic Mouse","1,851.05",Apple,,,,,,,,,8 GB,,,"13.4"""
+"Apple 13"" MacBook Pro, Retina Display, 2.3GHz Intel Core i5 Dual Core, 8GB RAM, 128GB SSD, Silver, With Case, Corel Software, Mouse, Ear buds and Extended Warranty","1,228.16",Apple,,,,,,,,,8 GB,,,"13.0"""
+"Apple 13"" MacBook Pro, Retina Display, 2.3GHz Intel Core i5 Dual Core, 8GB RAM, 128GB SSD, Space Gray, With Case, Corel Software, Magic Mouse, Magic Trackpad, Air Pods","1,605.25",Apple,,,,,,,,,8 GB,,,"13.0"""
+"Apple 13.4"" MacBook Pro Laptop Retina, Touch Bar, 2.3GHz Quad-Core Intel Core i5, 8GB RAM, 512GB SSD Storage Silver with Padded Case and Magic Mouse","1,949.37",Apple,,,,,,,,,8 GB,,,"13.4"""
+"Apple Laptop MacBook MLHC2LL/A 1.20 GHz 8 GB Memory 512 GB SSD 12.0""","1,334.99",Apple,MacBook,MLHC2LL/A,,,,1.20 GHz,,512 GB SSD,8 GB,,,"12.0"""
+"Apple 13.3"" MacBook Air (Mid 2017, 256GB SSD, Silver) Basic Bundle","1,061.49",Apple,MacBook Air,,,Mac OS X v10.13 High Sierra,Intel Core i5,1.80 GHz,,,8 GB,Intel HD Graphics 6000,,"13.3"""
+"Apple 12"" MacBook (Late 2018, Gold) Spanish Keyboard","1,322.46",,MacBook,MRQN2E/A,,Mac OS X v10.13 High Sierra,Intel Core M3,,,,8 GB,,,"12.0"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) + Magic Mouse 2 + Magic Trackpad 2","1,417.75",,,Apple Macbook Air,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro 2018 - Space Gray - 2.3 Ghz CPU - 8 GB RAM - 512 GB SSD with Magic Mouse Combo","1,739.11",,,,,,,,Quad-core Processor,512 GB,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air (Mid 2017, 256GB SSD, Silver) Basic Bundle w/ Apple Airpods","1,205.87",Apple,MacBook Air,,,Mac OS X v10.13 High Sierra,Intel Core i5,1.80 GHz,,,8 GB,Intel HD Graphics 6000,,"13.3"""
+"Apple 13.3"" MacBook Pro 2018 - Space Gray - 2.3 Ghz CPU - 8 GB RAM - 512 GB SSD with Apple Airpods Combo","1,881.84",,,,,,,,Quad-core Processor,512 GB,8 GB,,,"13.3"""
+"Apple MacBook MJY42LL/A (Early 2015, Space Gray)  Intel Core M 1.20 GHz 8 GB Memory 512 GB Flash Intel HD Graphics 5300 12.0"" Mac OS X v10.10 Yosemite","1,135.23",Apple,MacBook,MJY42LL/A,,Mac OS X v10.10 Yosemite,Intel Core M,1.20 GHz,,512 GB Flash PCIE,8 GB,Intel HD Graphics 5300,Shared system memory,"12.0"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Space Gray) + Magic Mouse 2 + Magic Trackpad 2","1,493.29",,,Apple Macbook Air,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Space Gray) + Magic Mouse 2 + Magic Trackpad 2","1,343.42",,,Apple Macbook Air,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air (Mid 2017, 128GB SSD, Silver) Basic Bundle w/ Apple Airpods",879.59,Apple,MacBook Air,,,Mac OS X v10.13 High Sierra,Intel Core i5,1.80 GHz,,,8 GB,Intel HD Graphics 6000,,"13.3"""
+"Apple 512GB SSD 13.3"" MacBook Pro with Touch Bar (Silver) (Spanish Keyboard) + Red Deflector Case + White Wireless Mouse + Fibercloth Bundle","2,021.99",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air with Retina Display (Late 2018, 128GB, Gold) Basic Bundle","1,162.97",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple MacBook 12"" 512GB SSD, 8GB RAM, 1.3Ghz Gold (2017) MRQP2LL/A","1,069.00",Apple,MacBook,MRQP2LL/A,,macOS High Sierra,Intel Core i5,,,512GB SSD,8 GB,,,"12.0"""
+"Apple 512GB SSD 13.3"" MacBook Pro with Touch Bar (Silver) (Spanish Keyboard) + Turquoise Deflector Case + 2 Port USB 3.0 Hub/ SD Reader + Fibercloth Bundle","2,021.99",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 512GB SSD 13.3"" MacBook Pro with Touch Bar (Silver) (Spanish Keyboard) + Rose Deflector Case + 2 Port USB 3.0 Hub/ SD Reader + Fibercloth Bundle","2,058.99",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air with Retina Display (Late 2018, 128GB, Gold) Basic Accessory Bundle Bundle","1,259.48",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 512GB SSD 13.3"" MacBook Pro with Touch Bar (Silver) (Spanish Keyboard) + White Wireless Mouse + White Wired Earbuds + Fibercloth Bundle","1,995.99",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Air with Retina Display (Late 2018, 128GB, Gold) Basic Accessory Bundle Bundle w/ Airpods","1,403.90",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) + LG 27 inch Class Full HD IPS LED Gaming Monitor Multiple Monitor + Accessory Combo","1,462.58",,,Apple Macbook Air,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) Spanish Keyboard","1,279.64",Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Space Gray) Spanish Keyboard","1,231.51",Apple,,,,,,,,,,,,"13.3"""
+"Apple 13.3"" MacBook Air with Retina Display (Late 2018, 128GB, Gold) Basic Bundle w/ Magic Mouse","1,243.19",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 512GB SSD 13.3"" MacBook Pro with Touch Bar (Silver) (Spanish Keyboard) + Turquoise Deflector Case + 2 Port USB 3.0 Hub/ SD Reader + White Wired Earbuds + Fibercloth Bundle","2,058.99",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, 128GB, Silver) Basic Accessory Bundle Bundle w/ Airpods","1,430.72",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Space Gray) + LG 24 inch Class Full HD IPS LED Monitor with AMD FreeSync Multiple Monitor + Accessory Combo","1,451.16",,,Apple Macbook Air,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, 128GB, Space Gray) Basic Accessory Bundle Bundle","1,329.65",,,,,,,,,,,,,
+"Apple 13.3"" MacBook Pro (Mid 2017, 128GB, Space Gray) Basic Bundle","1,221.91",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, 128GB, Space Gray) Basic Bundle w/ Magic Mouse","1,313.36",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 512GB SSD 13.3"" MacBook Pro with Touch Bar (Silver) (Spanish Keyboard) + Rose Deflector Case + White Wireless Mouse + 2 Port USB 3.0 Hub/ SD Reader Bundle","2,021.99",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, 128GB, Silver) Basic Accessory Bundle Bundle","1,286.26",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Silver) + LG 24 inch Class Full HD IPS LED Monitor with AMD FreeSync Multiple Monitor + Accessory Combo","1,419.22",,,Apple Macbook Air,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Space Gray) + LG 27 inch Class Full HD IPS LED Gaming Monitor Multiple Monitor + Accessory Combo","1,495.08",,,Apple Macbook Air,,,,,,,8 GB,,,"13.3"""
+"Apple 512GB SSD 13.3"" MacBook Pro with Touch Bar (Silver) (Spanish Keyboard) + Rose Deflector Case + 2 Port USB 3.0 Hub/ SD Reader + White Wired Earbuds + Fibercloth Bundle","2,058.99",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, 128GB, Silver) Basic Bundle w/ Magic Mouse","1,269.97",Apple,,,,,,,,,8 GB,,,"13.3"""
+"Apple 13.3"" MacBook Pro (Mid 2017, Space Gray) + LG 29 Inch Class 21:9 UltraWide Full HD IPS LED Monitor with AMD FreeSync Multiple Monitor + Accessory Combo","1,603.40",,,Apple Macbook Air,,,,,,,8 GB,,,"13.3"""
