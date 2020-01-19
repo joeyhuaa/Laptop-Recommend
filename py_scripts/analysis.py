@@ -5,6 +5,7 @@ pd.set_option('display.width', 500)
 pd.set_option('display.max_columns', 15)
 
 study_df = pd.read_csv('../data/study_laptops_cleaned.csv', sep=',', encoding='latin')
+gaming_df = pd.read_csv('../data/gaming_laptops_cleaned.csv', sep=',', encoding='latin')
 
 def create_new_columns(df):
     df['price_score'] = 0
@@ -50,24 +51,25 @@ def get_screen_score(df, row):
     return (df.loc[row, 'screen'] / max_screen) * (1/7)
 
 def get_top_10(df):
-    budget_bool = study_df.price <= user.budget
-    storage_bool = (study_df.storage >= user.storage_range[0]) \
-                   & (study_df.storage <= user.storage_range[1])
-    screen_bool = (study_df.screen >= user.screen_range[0]) \
-                  & (study_df.screen <= user.screen_range[1])
-    ram_bool = study_df.memory == user.ram
+    budget_bool = df.price <= user.budget
+    storage_bool = (df.storage >= user.storage_range[0]) \
+                   & (df.storage <= user.storage_range[1])
+    screen_bool = (df.screen >= user.screen_range[0]) \
+                  & (df.screen <= user.screen_range[1])
+    ram_bool = df.memory == user.ram
     return df[budget_bool & storage_bool & screen_bool & ram_bool].sort_values('total_score',ascending=False).head(10)
 
 
 ## MAIN
 # create new columns for scores
 study_df = create_new_columns(study_df)
+gaming_df = create_new_columns(gaming_df)
+combined_df = pd.concat([study_df, gaming_df]).reset_index(drop=True)
 
 # do this for each data point - loop thru everything
-budget = user.budget
-subset = study_df[study_df.price <= budget + 50]
+subset = combined_df[combined_df.price <= user.budget + 50]
 for r in list(subset.index):
-     subset.loc[r, 'price_score'] = get_price_score(subset, r, 1000)  # budget = 1000 just to test
+     subset.loc[r, 'price_score'] = get_price_score(subset, r, user.budget)
      subset.loc[r, 'rating_score'] = get_rating_score(subset, r)
      subset.loc[r, 'cpu_speed_score'] = get_cpu_speed_score(subset, r)
      subset.loc[r, 'core_score'] = get_core_score(subset, r)
@@ -76,5 +78,17 @@ for r in list(subset.index):
      subset.loc[r, 'screen_score'] = get_screen_score(subset, r)
      subset.loc[r, 'total_score'] = sum(subset.loc[r, 'price_score':'screen_score'])
 
+# output the results
 top_10 = get_top_10(subset)
-print(budget, top_10)
+
+if len(top_10) == 0:
+    print("Sorry, we do not have any products that match up to what you are looking for :c")
+else:
+    print("Alright, after considering all the factors that you answered for us, we decided on this list of the top ten laptops best suited for you!\n")
+
+    n = 1
+    for i in top_10.index:
+        print(str(n) + ': ' + top_10.name[i])
+        n += 1
+
+
