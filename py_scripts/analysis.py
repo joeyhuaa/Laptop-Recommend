@@ -90,5 +90,3 @@ else:
     for i in top_10.index:
         print(str(n) + ': ' + top_10.name[i])
         n += 1
-
-
