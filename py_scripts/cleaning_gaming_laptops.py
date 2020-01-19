@@ -10,6 +10,7 @@ gaming_laptops_df = pd.read_csv("../data/gaming_laptops_raw.csv", sep=",")
 gaming_laptops_df = gaming_laptops_df.fillna(-1)  # Will get back to later
 
 # Converting Rating Values into Integers
+gaming_laptops_df["rating"].fillna(4)
 def clean_ratings():
     for i in range(len(gaming_laptops_df["rating"])):
         gaming_laptops_df["rating"] = int(gaming_laptops_df.loc[i, "rating"])
@@ -23,6 +24,7 @@ def clean_screen_sizes():
         if type(gaming_laptops_df.loc[i, 'screen']) == str:
             gaming_laptops_df.loc[i, 'screen'] = float(gaming_laptops_df.loc[i, 'screen'].split(' ')[0].replace('"', ''))
 
+#Cleaning Gaming Laptops' Cores Data
 def clean_cores():
     for i in range(len(gaming_laptops_df['cores'])):
         if gaming_laptops_df.loc[i, 'cores'] == -1:
@@ -36,7 +38,7 @@ def clean_cores():
         elif "8" in gaming_laptops_df.loc[i, "cores"]:
             gaming_laptops_df.loc[i, "cores"] = 8
 
-
+#Cleaning Gaming Laptop's GPU Type Data
 def clean_gpu_type():
     for i in range(len(gaming_laptops_df["gpu_type"])):
         if "0" in gaming_laptops_df["gpu_type"]:
@@ -85,11 +87,11 @@ def clean_gpu_type():
             gaming_laptops_df["gpu_type"]:
             gaming_laptops_df.loc[i, "gpu_type"] = 2080
 
-
+#Cleaning Gaming Laptops' GPU Memory Data
 def clean_gpu_memory():
     for i in range(len(gaming_laptops_df["gpu_memory"])):
-        if "-1" in gaming_laptops_df["gpu_memory"]:
-            pass
+        if gaming_laptops_df.loc[i,"gpu_memory"] == -1:
+            gaming_laptops_df.loc[i, "gpu_memory"] = 12
         elif "shared system memory" in gaming_laptops_df["gpu_memory"]:
             gaming_laptops_df.loc[i, "gpu_memory"] = 1
         elif "2" in gaming_laptops_df["gpu_memory"]:
@@ -104,21 +106,23 @@ def clean_gpu_memory():
         elif "16" in gaming_laptops_df["gpu_memory"]:
             gaming_laptops_df.loc[i, "gpu_memory"] = 16
 
-
+#Cleaning Gaming Laptops' Memory Data
 def clean_memory():
     # retrieve GB ints from raw data
     for i in range(len(gaming_laptops_df['memory'])):
-        if type(gaming_laptops_df.loc[i, 'memory']) == int or type(gaming_laptops_df.loc[i, 'memory']) == 'numpy.64int':
-            continue
+        #if type(gaming_laptops_df.loc[i, 'memory']) == int or type(gaming_laptops_df.loc[i, 'memory']) == 'numpy.64int':
+            #continue
+        if gaming_laptops_df.loc[i,"memory"] == -1:
+            gaming_laptops_df.loc[i,"memory"] = 12
         else:
             gaming_laptops_df.loc[i, 'memory'] = int(gaming_laptops_df.loc[i, 'memory'].split(' ')[0])
 
-
+#Cleaning Gaming Laptops' CPU Speed
 def clean_cpu_speed():
     for i in range(len(gaming_laptops_df['cpu_speed'])):
         # missing values
         if gaming_laptops_df.loc[i, 'cpu_speed'] == -1:
-            pass
+            gaming_laptops_df.loc[i,"cpu_speed"] = 2.4
 
         # case with extra words at beginning
         elif '(' in gaming_laptops_df.loc[i, 'cpu_speed']:
@@ -128,6 +132,7 @@ def clean_cpu_speed():
         elif 'GHz' in gaming_laptops_df.loc[i, 'cpu_speed']:
             gaming_laptops_df.loc[i, 'cpu_speed'] = float(gaming_laptops_df.loc[i, 'cpu_speed'].split(' ')[0])
 
+#Cleaning Gaming Laptops' Price Data
 def clean_prices():
     for i in range(len(gaming_laptops_df['price'])):
         if type(gaming_laptops_df.loc[i, 'price']) == str:
@@ -135,12 +140,15 @@ def clean_prices():
         elif gaming_laptops_df.loc[i, 'price'] == -1:
             gaming_laptops_df.loc[i, 'price'] = 1493.64  # fill missing with the mean price
 
+#Cleaning Gaming Laptops' Storage Data
 def clean_storage():
     for i in range(len(gaming_laptops_df['storage'])):
-        if gaming_laptops_df.loc[i, 'storage'] != -1:
-            # gaming_laptops_df.loc[i, 'storage'] = re.split('[A-z]|,', gaming_laptops_df.loc[i, 'storage'])[0]
-            gaming_laptops_df.loc[i, 'storage'] = gaming_laptops_df.loc[i, 'storage'].replace('+', ',')
-            storage_split_list = re.split('[A-z]|,', gaming_laptops_df.loc[i, 'storage'])
+        if gaming_laptops_df.loc[i, 'storage'] == -1:
+            gaming_laptops_df.loc[i,"storage"] = 640
+        else:
+            if gaming_laptops_df.loc[i,"storage"] != -1:
+                gaming_laptops_df.loc[i, 'storage'] = gaming_laptops_df.loc[i, 'storage'].replace('+', ',')
+                storage_split_list = re.split('[A-z]|,', gaming_laptops_df.loc[i, 'storage'])
 
             # retrieve integer values from raw data
             storage_int = 0
