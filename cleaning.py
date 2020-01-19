@@ -11,7 +11,6 @@ gaming_df = pd.read_csv('gaming_laptops_raw.csv', sep=',')
 
 # temporarily fill all N/A with -1
 study_df = study_df.fillna(-1)
-# gaming_df = gaming_df.fillna(-1)
 
 # turn all prices into floats
 def clean_prices(df):
@@ -108,5 +107,4 @@ study_df = clean_memory(study_df)
 study_df = clean_screen_sizes(study_df)
 
 # write to csv
-study_df.to_csv('study_laptops_cleaned.csv')
 
