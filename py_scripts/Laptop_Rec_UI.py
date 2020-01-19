@@ -28,7 +28,7 @@ user_app = None #default case; determines what the user would be using the lapto
 budget = None #default case, $300
 prompt_fin = 0 #default case, 0=continue prompting, 1=finish prompting
 confidence = None #default case, determines how confident a person is with tech jargon.
-dim_screen= None #default case, determines dimensions of screen.
+dim_screen = None #default case, determines dimensions of screen.
 laptop_purpose = None #default case, original answer of what the user would be using the laptop for in user_app; utilized in closing()
 RAM = None #default case, determines how much RAM a laptop must have.
 storage_cap = None #default case, determines how much storage a laptop must have.
@@ -428,34 +428,35 @@ def closing():
 ###MAIN FUNCTION###
 
 def main():
+	global b, ss, sc, r
 	greeting()
 	type_user()
 	#if the user is experienced at laptops
 	if (type_user()==2):
 		print("EXPERIENCED USER")
 		application()
-		budget_amount()
-		screen_size()
-		storage_size()
-		RAM_capacity()
+		b = budget_amount() # return budget
+		ss = screen_size() # returns dim_screen
+		sc = storage_size() # returns storage_cap
+		r = RAM_capacity() # returns RAM
 		closing()
 	#if the user is average at laptops
 	elif (type_user()==1):
 		print("AVERAGE USER")
 		application()
-		budget_amount()
-		screen_size()
-		storage_size()
-		RAM_capacity()
+		b = budget_amount()
+		ss = screen_size()
+		sc = storage_size()
+		r = RAM_capacity()
 		closing()
 	#if the user is new at laptops
 	else:
 		print("NEW USER")
 		application()
-		budget_amount()
-		screen_size()
-		storage_size()
-		RAM_capacity()
+		b = budget_amount()
+		ss = screen_size()
+		sc = storage_size()
+		r = RAM_capacity()
 		closing()
 
 main()

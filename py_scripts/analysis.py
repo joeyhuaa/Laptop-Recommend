@@ -1,9 +1,10 @@
 import pandas as pd
+from User import user
 
 pd.set_option('display.width', 500)
 pd.set_option('display.max_columns', 15)
 
-study_df = pd.read_csv('study_laptops_cleaned.csv', sep=',', encoding='latin')
+study_df = pd.read_csv('../data/study_laptops_cleaned.csv', sep=',', encoding='latin')
 
 def create_new_columns(df):
     df['price_score'] = 0
@@ -49,15 +50,21 @@ def get_screen_score(df, row):
     return (df.loc[row, 'screen'] / max_screen) * (1/7)
 
 def get_top_10(df):
-    top_10 = df.sort_values('total_score', ascending=False)
-    return top_10
+    budget_bool = study_df.price <= user.budget
+    storage_bool = (study_df.storage >= user.storage_range[0]) \
+                   & (study_df.storage <= user.storage_range[1])
+    screen_bool = (study_df.screen >= user.screen_range[0]) \
+                  & (study_df.screen <= user.screen_range[1])
+    ram_bool = study_df.memory == user.ram
+    return df[budget_bool & storage_bool & screen_bool & ram_bool].sort_values('total_score',ascending=False).head(10)
+
 
 ## MAIN
 # create new columns for scores
 study_df = create_new_columns(study_df)
 
 # do this for each data point - loop thru everything
-budget = 2000  # test
+budget = user.budget
 subset = study_df[study_df.price <= budget + 50]
 for r in list(subset.index):
      subset.loc[r, 'price_score'] = get_price_score(subset, r, 1000)  # budget = 1000 just to test
@@ -70,3 +77,4 @@ for r in list(subset.index):
      subset.loc[r, 'total_score'] = sum(subset.loc[r, 'price_score':'screen_score'])
 
 top_10 = get_top_10(subset)
+print(budget, top_10)
