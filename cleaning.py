@@ -110,7 +110,3 @@ study_df = clean_screen_sizes(study_df)
 # write to csv
 study_df.to_csv('study_laptops_cleaned.csv')
 
-
-
-
-d
