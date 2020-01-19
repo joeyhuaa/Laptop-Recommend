@@ -4,9 +4,8 @@
     <list default="true" id="09abaea1-296e-4a49-81da-2960bb7c7b6e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../ChalfantResearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChalfantResearch/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChalfantResearch/r_scripts/SatAnalysis2017-18.R" beforeDir="false" afterPath="$PROJECT_DIR$/../ChalfantResearch/r_scripts/SatAnalysis2017-18.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newegg_gaming_laptops.csv" beforeDir="false" afterPath="$PROJECT_DIR$/newegg_gaming_laptops.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newegg_study_laptops.csv" beforeDir="false" afterPath="$PROJECT_DIR$/newegg_study_laptops.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/analysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="93" column="11" lean-forward="true" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
+            <state relative-caret-position="383">
+              <caret line="110" column="51" selection-start-line="110" selection-start-column="51" selection-end-line="110" selection-end-column="51" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -53,10 +52,12 @@
     <findStrings>
       <find>df</find>
       <find>storage_list</find>
+      <find>study_df</find>
     </findStrings>
     <replaceStrings>
       <replace>study_df</replace>
       <replace>storage_split_list</replace>
+      <replace>df</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -232,9 +233,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="22" y="23" width="1244" height="727" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18386023" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18386023" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -247,7 +247,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32913387" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3984252" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.51338583" />
+      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.49448818" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -313,13 +313,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newegg_gaming_laptops.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/newegg_macbooks.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
@@ -338,12 +331,27 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Untitled.ipynb">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49402" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gaming_laptops_cleaned.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newegg_gaming_laptops.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/analysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="93" column="11" lean-forward="true" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
+        <state relative-caret-position="383">
+          <caret line="110" column="51" selection-start-line="110" selection-start-column="51" selection-end-line="110" selection-end-column="51" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
