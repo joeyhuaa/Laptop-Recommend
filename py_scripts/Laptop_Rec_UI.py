@@ -59,16 +59,6 @@ def greeting():
 	print("It's a pleasure to meet you, " +user_name+ ", we hope we can help you find the kind of laptop you want.\n")
 	#print(user_id)
 
-#Wanna smash us?
-def smash():
-	sex=input("If you're horny and want sum fuck, wanna smash?(Y\\N)")
-	if (sex=="Y"):
-		print("I'll bend over ;)")
-	elif (sex=="N"):
-		print("You don't have a choice. Bend over.")
-	else:
-		print("Pity. Go touch yourself then, perv.")
-
 
 #Prompt user for how confident/familiar they are with laptops and their specs.
 # Is confidence level correctly inputted as an integer?
